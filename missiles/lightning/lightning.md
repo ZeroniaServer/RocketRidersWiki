@@ -1,0 +1,14 @@
+---
+layout: default
+title: Lightning
+parent: Missiles
+has_children: true
+permalink: /missiles/lightning/
+nav_order: 7
+---
+**Lightning Speed Missiles**
+---
+These travel faster than any missiles (besides the Hypersonic) in the game, at the cost of being harder to deploy and ride successfully.
+
+- [Hurricane](<actualurl>.github.io/missiles/lightning/hurricane) - Bears much resemblance to the Lightning from Missile Wars, but features more TNT and a tight design.
+- [Thunderbolt](<actualurl>.github.io/missiles/lightning/thunderbolt) - Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
