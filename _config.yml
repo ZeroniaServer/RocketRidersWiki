@@ -28,7 +28,7 @@ twitter_username: ZeroniaServer
 github_username:  ZeroniaServer
 
 # Build settings
-theme: jekyll-theme-slate
+remote_theme: just-the-docs
 plugins:
   - jekyll-feed
 color_scheme: dark
