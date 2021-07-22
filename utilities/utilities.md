@@ -10,7 +10,7 @@ permalink: /utilities/
 
 In addition to the Shield and Fireball from *Missile Wars*, Rocket Riders features **new utility items** that interact with each other in interesting ways. These allow for complex and unique strategies when it comes to defensive gameplay.
 
-Below is a list of all the utilities in the general game*. Click on the name of each one to learn more about it!
+Below is a list of every utility in the general game*. Click on each one to learn more about it!
 
 - [Arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)
 - [Fireball](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)
