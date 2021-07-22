@@ -21,7 +21,7 @@ youtubeId: -w2U65KZjXE
             <b>Dimensions:</b> 9x3x2<br><br>
             <b>Difficulty of Riding:</b> Medium<br><br>
             <b>Category:</b> Normal<br><br>
-            <b>Created by:</b> Samnrad and<br>Evtema3
+            <b>Created by:</b> samnrad and<br>Evtema3
         </td>
     </tr>
 </table>
