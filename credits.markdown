@@ -3,8 +3,8 @@ layout: page
 title: Credits
 permalink: /credits/
 ---
-# Giving credits to the players who helped make this project the best it could be.
-
+# Credits
+Giving credits to the players who helped make this project the best it could be.
 ---
 
 **Development**\
