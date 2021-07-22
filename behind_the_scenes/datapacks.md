@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gamemode Datapacks
-parent: Technology
+parent: Behind the Scenes
 nav_order: 6
 ---
 **Gamemode Datapacks**

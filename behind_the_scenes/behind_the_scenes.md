@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Technology
+title: Behind the Scenes
 has_children: true
 has_toc: false
 nav_order: 7
 ---
-# Technology
+# Behind the Scenes
 ---
 
 So, you want to learn a little more about how Rocket Riders actually works? Or, do you just want to fool around with things in your own world? Well, buckle up, 'cause it's about to get... interesting.

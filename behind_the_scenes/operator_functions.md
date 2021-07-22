@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operator Functions
-parent: Technology
+parent: Behind the Scenes
 nav_order: 2
 ---
 **Operator Functions**
