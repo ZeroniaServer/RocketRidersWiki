@@ -53,6 +53,3 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
-
-footer_content: "This wiki is managed by Evtema3 of the Zeronia Minigame Development Team. For any inquiries, please reach out to
-<code>Evtema3#8705</code> via Discord."
