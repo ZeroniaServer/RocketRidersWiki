@@ -13,7 +13,7 @@ Each category is listed below along with all the missiles in them. Click on the 
 
 **Normal Damage Missiles**
 ---
-These are neither as fast as Lightning Speed Missiles nor as destructive as Heavy Damage Missiles; just somewhere in between. There are 10 missiles in this category:
+These are neither as fast as [Lightning Speed Missiles](#lightning-speed-missiles) nor as destructive as [Heavy Damage Missiles](#heavy-damage-missiles); just somewhere in between. There are 10 missiles in this category:
 
 - [A.N.T](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant) - Stands for Almost No TNT. It is one of the smallest functional missiles, made with only two TNT blocks.  
 - [Blade](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/blade) - A sword-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.
@@ -28,7 +28,7 @@ These are neither as fast as Lightning Speed Missiles nor as destructive as Heav
 
 **Heavy Damage Missiles**
 ---
-These deal the most damage of any missiles (besides Special Missiles) in the game, at the cost of being more dangerous to ride without disarming.
+These deal the most damage of any missiles (besides [Special Missiles](#special-missiles)) in the game, at the cost of being more dangerous to ride without disarming.
 
 - [Auxiliary](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/auxiliary) - This missile has 6 trigger TNT in it, making it risky to defuse.
 - [Juggerbuster](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/juggerbuster) - This missile has the power of a Juggernaut plus the ability to bust through [Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield).
@@ -37,7 +37,7 @@ These deal the most damage of any missiles (besides Special Missiles) in the gam
 
 **Lightning Speed Missiles**
 ---
-These travel faster than any missiles (besides the Hypersonic) in the game, at the cost of being harder to deploy and ride successfully.
+These travel faster than any missiles (besides the [Hypersonic](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/hypersonic)) in the game, at the cost of being harder to deploy and ride successfully.
 
 - [Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane) - Bears much resemblance to the Lightning from *Missile Wars*, but features more TNT and a tight design.
 - [Thunderbolt](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/thunderbolt) - Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
