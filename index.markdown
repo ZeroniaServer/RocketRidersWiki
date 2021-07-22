@@ -15,6 +15,5 @@ Click on individual pages/categories in the Table of Contents on the left to lea
 
 ---
 
-[![Check us out on Planet Minecraft!](/images/pmc_logo1.png)](https://www.planetminecraft.com/project/rocket-riders/) [![Check out Rocket Riders showcase videos!](/images/rr_logo1.png)](https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g) [![Play Rocket Riders on CubeKrowd!](/images/cubekrowd_logo1.png)](https://cubekrowd.net/)
-
+<align="center">[![Check us out on Planet Minecraft!](/images/pmc_logo1.png)](https://www.planetminecraft.com/project/rocket-riders/) [![Check out Rocket Riders showcase videos!](/images/rr_logo1.png)](https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g) [![Play Rocket Riders on CubeKrowd!](/images/cubekrowd_logo1.png)](https://cubekrowd.net/)</align>
 
