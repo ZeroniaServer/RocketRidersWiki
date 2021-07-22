@@ -23,7 +23,7 @@ title: Rocket Riders Wiki
 description: >- # this means to ignore newlines until "baseurl:"
   Official documentation for the one and only Rocket Riders minigame
 baseurl: "/RocketRidersWiki" # the subpath of your site, e.g. /blog
-url: "https://zeroniaserver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://zeroniaserver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZeroniaServer
 github_username:  ZeroniaServer
 
