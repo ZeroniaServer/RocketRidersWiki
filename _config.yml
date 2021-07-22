@@ -22,15 +22,16 @@ title: Rocket Riders Wiki
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Official documentation for the one and only Rocket Riders minigame
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/RocketRidersWiki" # the subpath of your site, e.g. /blog
+#url: "https://zeroniaserver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZeroniaServer
 github_username:  ZeroniaServer
 
 # Build settings
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 color_scheme: dark
 
 # Exclude from processing.
@@ -41,14 +42,14 @@ color_scheme: dark
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
