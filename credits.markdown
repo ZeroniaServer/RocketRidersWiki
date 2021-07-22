@@ -4,6 +4,8 @@ title: Credits
 permalink: /credits/
 ---
 # Credits
+---
+
 Giving credits to the players who helped make this project the best it could be.
 ---
 
