@@ -3,11 +3,26 @@ layout: post
 title: Auxiliary
 grand_parent: Missiles
 parent: Heavy
+youtubeId: 2U2KtvqEzuM
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/2U2KtvqEzuM?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 25<br><br>**Speed:** 1.7 m/s<br><br>**Dimensions:** 11x3x4<br><br>**Difficulty of Riding:** Medium<br><br>**Category:** Heavy<br><br>**Created by:** Evtema3
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 25<br><br>
+            <b>Speed:</b> 1.7 m/s<br><br>
+            <b>Dimensions:</b> 11x3x4<br><br>
+            <b>Difficulty of Riding:</b> Medium<br><br>
+            <b>Category:</b> Heavy<br><br>
+            <b>Created by:</b> Evtema3
+        </td>
+    </tr>
+</table>
 
 The **Auxiliary** has 6 triggers in it, making it risky to defuse.
 

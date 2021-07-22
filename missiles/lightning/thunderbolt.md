@@ -3,11 +3,26 @@ layout: post
 title: Thunderbolt
 grand_parent: Missiles
 parent: Lightning
+youtubeID: COg551Fpvco
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/COg551Fpvco?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 15<br><br>**Speed:** 3.3 m/s<br><br>**Dimensions:** 11x2x2<br><br>**Difficulty of Riding:** Hard<br><br>**Category:** Lightning<br><br>**Created by:** Rubix_One
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 15<br><br>
+            <b>Speed:</b> 3.3 m/s<br><br>
+            <b>Dimensions:</b> 11x2x2<br><br>
+            <b>Difficulty of Riding:</b> Hard<br><br>
+            <b>Category:</b> Lightning<br><br>
+            <b>Created by:</b> Rubix_One
+        </td>
+    </tr>
+</table>
 
 The **Thunderbolt** is a lightning-speed missile. Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
 

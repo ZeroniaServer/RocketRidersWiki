@@ -3,10 +3,25 @@ layout: post
 title: TomaTwo
 grand_parent: Missiles
 parent: Normal
+youtubeId: dBGdoUi4ltg
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/dBGdoUi4ltg?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 16<br><br>**Speed:** 2.0 m/s<br><br>**Dimensions:** 9x2x2<br><br>**Difficulty of Riding:** Medium<br><br>**Category:** Normal<br><br>**Created by:** YZEROgame and<br>Chronos22
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 16<br><br>
+            <b>Speed:</b> 2.0 m/s<br><br>
+            <b>Dimensions:</b> 9x2x2<br><br>
+            <b>Difficulty of Riding:</b> Medium<br><br>
+            <b>Category:</b> Normal<br><br>
+            <b>Created by:</b> YZEROgame<br>and Chronos22
+        </td>
+    </tr>
+</table>
 
 The **TomaTwo** is a missile inspired by the Tomahawk from *Missile Wars*. This missile uses an observer engine.

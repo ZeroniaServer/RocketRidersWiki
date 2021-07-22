@@ -3,11 +3,26 @@ layout: post
 title: Hypersonic
 grand_parent: Missiles
 parent: Special
+youtubeId: sSxj3Vcxs1I
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/sSxj3Vcxs1I?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 6<br><br>**Speed:** 4.4 m/s<br><br>**Dimensions:** 10x3x3<br><br>**Difficulty of Riding:** Very Hard<br><br>**Category:** Special<br><br>**Created by:** IndigoLaser
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 6<br><br>
+            <b>Speed:</b> 4.4 m/s<br><br>
+            <b>Dimensions:</b> 10x3x3<br><br>
+            <b>Difficulty of Riding:</b> Very Hard<br><br>
+            <b>Category:</b> Special<br><br>
+            <b>Created by:</b> IndigoLaser
+        </td>
+    </tr>
+</table>
 
 The **Hypersonic** is the fastest missile in the game. It might be very hard to get on this one!
 

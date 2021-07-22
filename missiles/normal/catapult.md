@@ -3,11 +3,26 @@ layout: post
 title: Catapult
 grand_parent: Missiles
 parent: Normal
+youtubeId: fmvTicOL7rs
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/fmvTicOL7rs?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 14<br><br>**Speed:** 2.2 m/s<br><br>**Dimensions:** 12x3x3<br><br>**Difficulty of Riding:** Very Easy<br><br>**Category:** Normal<br><br>**Created by:** IndigoLaser
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 14<br><br>
+            <b>Speed:</b> 2.2 m/s<br><br>
+            <b>Dimensions:</b> 12x3x3<br><br>
+            <b>Difficulty of Riding:</b> Very Easy<br><br>
+            <b>Category:</b> Normal<br><br>
+            <b>Created by:</b> IndigoLaser
+        </td>
+    </tr>
+</table>
 
 The **Catapult** does as its name suggests. Once it contacts a wall, it launches 2 TNT blocks out. You can also launch TNT by breaking the back slime block. Watch out!
 

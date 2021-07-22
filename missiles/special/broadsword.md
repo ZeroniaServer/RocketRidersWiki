@@ -3,11 +3,26 @@ layout: post
 title: Broadsword
 grand_parent: Missiles
 parent: Special
+youtubeId: VKvob-2VeSM
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/VKvob-2VeSM?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 23<br><br>**Speed:** 3.3 m/s<br><br>**Dimensions:** 12x3x3<br><br>**Difficulty of Riding:** Hard<br><br>**Category:** Special<br><br>**Created by:** IndigoLaser
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 23<br><br>
+            <b>Speed:</b> 3.3 m/s<br><br>
+            <b>Dimensions:</b> 12x3x3<br><br>
+            <b>Difficulty of Riding:</b> Hard<br><br>
+            <b>Category:</b> Special<br><br>
+            <b>Created by:</b> IndigoLaser
+        </td>
+    </tr>
+</table>
 
 The **Broadsword** is a fast and powerful missile that bombs a lot of TNT. It's like three Swords combined!
 

@@ -3,11 +3,26 @@ layout: post
 title: Rifter
 grand_parent: Missiles
 parent: Heavy
+youtubeId: Epv0Ce4LgDM
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| <iframe width="480" height="270" src="https://www.youtube.com/embed/Epv0Ce4LgDM?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **TNT Count:** 34<br><br>**Speed:** 2.0 m/s<br><br>**Dimensions:** 14x3x2<br><br>**Difficulty of Riding:** Medium<br><br>**Category:** Heavy<br><br>**Created by:** 69thAmendment,<br>YZEROgame and Chronos22
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 34<br><br>
+            <b>Speed:</b> 2.0 m/s<br><br>
+            <b>Dimensions:</b> 14x3x2<br><br>
+            <b>Difficulty of Riding:</b> Medium<br><br>
+            <b>Category:</b> Heavy<br><br>
+            <b>Created by:</b> 69thAmendment,<br>YZEROgame and Chronos22
+        </td>
+    </tr>
+</table>
 
 The **Rifter** is an observer engine missile with plenty of TNT to blow up a portal.
 
