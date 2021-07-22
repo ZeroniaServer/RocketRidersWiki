@@ -5,6 +5,7 @@
 layout: home
 nav_order: 0
 ---
+
 # 🚀 **Welcome to the Rocket Riders Wiki!** 🚀
 
 Rocket Riders is a reimagination of Sethbling and Cubehamster's *Missile Wars* (2014), featuring all new missiles, utility items, custom achievements, challenging gamemodes and modifiers, and tons more ways to customize your gameplay!
@@ -15,10 +16,11 @@ Click on individual pages/categories on the left to learn more about each part o
 
 ---
 
-<style>
-    .banner {
-        max-width: 75vw;
-        height: auto;
-    }
-</style>
-<div align="center" class="banner"><a href="https://www.planetminecraft.com/project/rocket-riders/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" /></a><a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" /></a><a href="https://cubekrowd.net/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" /></a></div>
+<div align="center">
+    <a href="https://www.planetminecraft.com/project/rocket-riders/"><img style="text-decoration: none; height: 10; border: 0; width: 10; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" width="null" height="150px" />
+    </a>
+    <a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img style="text-decoration: none; height: 10; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" width="null" height="150px" />
+    </a>
+    <a href="https://cubekrowd.net/"><img style="text-decoration: none; height: 10; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" width="null" height="150px" />
+    </a>
+</div>
