@@ -12,14 +12,14 @@ In addition to the Shield and Fireball from Missile Wars, Rocket Riders features
 
 Below is a list of all the utilities in the general game*. Click on the name of each one to learn more about it!
 
-- [Arrows](<actualurl>.github.io/utilities/)
-- [Fireball](<actualurl>.github.io/utilities/)
-- [Shield](<actualurl>.github.io/utilities/)  
-- [Obsidian Shield](<actualurl>.github.io/utilities/)    
-- [Vortex](<actualurl>.github.io/utilities/)  
-- [Canopy](<actualurl>.github.io/utilities/)  
-- [Splash](<actualurl>.github.io/utilities/)  
-- [Nova Rocket](<actualurl>.github.io/utilities/)  
+- [Arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)
+- [Fireball](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)
+- [Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)  
+- [Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)    
+- [Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)  
+- [Canopy](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)  
+- [Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)  
+- [Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)  
 
-*Note that there are other exclusive utilities in certain [gamemodes](<actualurl>.github.io/gamemodes).
+*Note that there are other exclusive utilities in certain [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes).
 

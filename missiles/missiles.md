@@ -15,32 +15,32 @@ Each category is listed below along with all the missiles in them. Click on the 
 ---
 These are neither as fast as Lightning Speed Missiles nor as destructive as Heavy Damage Missiles; just somewhere in between. There are 10 missiles in this category:
 
-- [A.N.T](<actualurl>.github.io/missiles/normal/ant) - Stands for Almost No TNT. It is one of the smallest functional missiles, made with only two TNT blocks.  
-- [Blade](<actualurl>.github.io/missiles/normal/blade) - A sword-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.
-- [Catapult](<actualurl>.github.io/missiles/normal/catapult) - Once it contacts a wall, it launches 2 TNT blocks out. You can also launch TNT by breaking the back slime block.
-- [Chronullifier](<actualurl>.github.io/missiles/normal/chronullifier) - Uses a unique observer engine with the same speed as non-observer engines.
-- [Citadel](<actualurl>.github.io/missiles/normal/citadel) - Good for surprise attacks. You can climb inside the missile using the trapdoor on top of it.
-- [Elder Guardian](<actualurl>.github.io/missiles/normal/elderguardian) - An upgrade from the Guardian in Missile Wars, the Elder Guardian is bigger and covers the TNT better.
-- [Gemini](<actualurl>.github.io/missiles/normal/gemini) - A twin missile. If one side is stopped, the other side of the missile will keep going.
-- [Lifter](<actualurl>.github.io/missiles/normal/lifter) - Lifts its warhead up by 3 blocks when it hits an obstacle.
-- [Slasher](<actualurl>.github.io/missiles/normal/slasher) - A glass-encased missile with not much TNT. It can slash straight through Shields.
-- [TomaTwo](<actualurl>.github.io/missiles/normal/tomatwo) - A missile inspired by the Tomahawk from Missile Wars. This missile uses an observer engine.
+- [A.N.T](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant) - Stands for Almost No TNT. It is one of the smallest functional missiles, made with only two TNT blocks.  
+- [Blade](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/blade) - A sword-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.
+- [Catapult](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/catapult) - Once it contacts a wall, it launches 2 TNT blocks out. You can also launch TNT by breaking the back slime block.
+- [Chronullifier](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/chronullifier) - Uses a unique observer engine with the same speed as non-observer engines.
+- [Citadel](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/citadel) - Good for surprise attacks. You can climb inside the missile using the trapdoor on top of it.
+- [Elder Guardian](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/elderguardian) - An upgrade from the Guardian in Missile Wars, the Elder Guardian is bigger and covers the TNT better.
+- [Gemini](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/gemini) - A twin missile. If one side is stopped, the other side of the missile will keep going.
+- [Lifter](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/lifter) - Lifts its warhead up by 3 blocks when it hits an obstacle.
+- [Slasher](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/slasher) - A glass-encased missile with not much TNT. It can slash straight through Shields.
+- [TomaTwo](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/tomatwo) - A missile inspired by the Tomahawk from Missile Wars. This missile uses an observer engine.
 
 **Heavy Damage Missiles**
 ---
 These deal the most damage of any missiles (besides Special Missiles) in the game, at the cost of being more dangerous to ride without disarming.
 
-- [Auxiliary](<actualurl>.github.io/missiles/heavy/auxiliary) - This missile has 6 trigger TNT in it, making it risky to defuse.
-- [Juggerbuster](<actualurl>.github.io/missiles/heavy/juggerbuster) - This missile has the power of a Juggernaut plus the ability to bust through Shields.
-- [Rifter](<actualurl>.github.io/missiles/heavy/rifter) - An observer engine missile with plenty of TNT to blow up a portal.
-- [Warhead](<actualurl>.github.io/missiles/heavy/warhead) - A Juggernaut-style missile. When it hits a wall, a piston will cover up the trigger TNT.
+- [Auxiliary](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/auxiliary) - This missile has 6 trigger TNT in it, making it risky to defuse.
+- [Juggerbuster](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/juggerbuster) - This missile has the power of a Juggernaut plus the ability to bust through Shields.
+- [Rifter](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/rifter) - An observer engine missile with plenty of TNT to blow up a portal.
+- [Warhead](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/warhead) - A Juggernaut-style missile. When it hits a wall, a piston will cover up the trigger TNT.
 
 **Lightning Speed Missiles**
 ---
 These travel faster than any missiles (besides the Hypersonic) in the game, at the cost of being harder to deploy and ride successfully.
 
-- [Hurricane](<actualurl>.github.io/missiles/lightning/hurricane) - Bears much resemblance to the Lightning from Missile Wars, but features more TNT and a tight design.
-- [Thunderbolt](<actualurl>.github.io/missiles/lightning/thunderbolt) - Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
+- [Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane) - Bears much resemblance to the Lightning from Missile Wars, but features more TNT and a tight design.
+- [Thunderbolt](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/thunderbolt) - Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
 
 
 **Special Missiles**
