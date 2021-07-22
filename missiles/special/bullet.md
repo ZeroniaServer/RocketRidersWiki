@@ -5,6 +5,8 @@ grand_parent: Missiles
 parent: Special
 youtubeId: hyTl8Zjp7-M
 ---
+# Bullet
+---
 
 <table>
     <tr>

@@ -4,3 +4,5 @@ title: Powerups Mode
 parent: Gamemodes
 nav_order: 2
 ---
+# Powerups Mode
+---

@@ -6,10 +6,10 @@ has_children: true
 permalink: /missiles/normal/
 nav_order: 5
 ---
-
-**Normal Missiles**
+# Normal Missiles
 ---
-These are neither as fast as Lightning Speed Missiles nor as destructive as Heavy Damage Missiles; just somewhere in between. There are 10 missiles in this category:
+
+These are neither as fast as [Lightning Speed Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning) nor as destructive as [Heavy Damage Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy); just somewhere in between. There are 10 missiles in this category:
 
 - [A.N.T](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant) - Stands for Almost No TNT. It is one of the smallest functional missiles, made with only two TNT blocks.  
 - [Blade](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/blade) - A sword-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.

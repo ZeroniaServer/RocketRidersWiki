@@ -5,6 +5,8 @@ grand_parent: Missiles
 parent: Special
 youtubeId: RVonL1RKgsw
 ---
+# Duplex
+---
 
 <table>
     <tr>

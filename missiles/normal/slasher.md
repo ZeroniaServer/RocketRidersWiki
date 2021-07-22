@@ -5,6 +5,8 @@ grand_parent: Missiles
 parent: Normal
 youtubeId: z3aNvDctb8U
 ---
+# Slasher
+---
 
 <table>
     <tr>

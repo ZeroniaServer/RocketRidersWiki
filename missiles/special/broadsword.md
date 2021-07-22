@@ -5,6 +5,8 @@ grand_parent: Missiles
 parent: Special
 youtubeId: VKvob-2VeSM
 ---
+# Broadsword
+---
 
 <table>
     <tr>

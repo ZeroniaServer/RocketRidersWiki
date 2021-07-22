@@ -5,6 +5,8 @@ grand_parent: Missiles
 parent: Normal
 youtubeId: UgrDcZYMzEY
 ---
+# Blade
+---
 
 <table>
     <tr>
