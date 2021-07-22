@@ -5,7 +5,7 @@
 layout: home
 nav_order: 0
 ---
-# 🚀 **Welcome To The Rocket Riders Wiki!** 🚀
+# 🚀 **Welcome to the Rocket Riders Wiki!** 🚀
 
 Rocket Riders is a reimagination of Sethbling and Cubehamster's *Missile Wars* (2014), featuring all new missiles, utility items, custom achievements, challenging gamemodes and modifiers, and tons more ways to customize your gameplay!
 
