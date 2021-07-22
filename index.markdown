@@ -15,5 +15,4 @@ Click on individual pages/categories in the Table of Contents on the left to lea
 
 ---
 
-<align="center">[![Check us out on Planet Minecraft!](/images/pmc_logo1.png)](https://www.planetminecraft.com/project/rocket-riders/) [![Check out Rocket Riders showcase videos!](/images/rr_logo1.png)](https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g) [![Play Rocket Riders on CubeKrowd!](/images/cubekrowd_logo1.png)](https://cubekrowd.net/)</align>
-
+<div align="center"><a href="https://www.planetminecraft.com/project/rocket-riders/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" /></a><a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" /></a><a href="https://cubekrowd.net/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" /></a></div>
