@@ -6,8 +6,22 @@ parent: Lightning
 youtubeId: LCwzm9ja2rQ
 ---
 
-| Showcase Video | Statistics |
-| --- | --- |
-| {% include youtubePlayer.html id=page.youtubeId %} | **TNT Count:** 18<br><br>**Speed:** 3.3 m/s<br><br>**Dimensions:** 9x3x2<br><br>**Difficulty of Riding:** Hard<br><br>**Category:** Lightning<br><br>**Created by:** HolyToiletPaper
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 18<br><br>
+            <b>Speed:</b> 3.3 m/s<br><br>
+            <b>Dimensions:</b> 9x3x2<br><br>
+            <b>Difficulty of Riding:</b> Hard<br><br>
+            <b>Category:</b> Lightning<br><br>
+            <b>Created by:</b> HolyToiletPaper
+        </td>
+    </tr>
+</table>
 
 The **Hurricane** bears much resemblance to the Lightning from *Missile Wars*, but features more TNT and a tight design.
