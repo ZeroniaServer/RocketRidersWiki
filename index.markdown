@@ -11,7 +11,7 @@ Rocket Riders is a reimagination of Sethbling and Cubehamster's *Missile Wars* (
 
 This is a comprehensive resource for official information about all of the content Rocket Riders has to offer.
 
-Click on individual pages/categories in the Table of Contents on the left to learn more about each part of the game!  
+Click on individual pages/categories on the left to learn more about each part of the game!  
 
 ---
 
