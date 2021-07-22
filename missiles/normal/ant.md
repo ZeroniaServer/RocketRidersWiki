@@ -9,7 +9,7 @@ parent: Normal
 
 The A.N.T. stands for Almost No TNT. It is one of the smallest functional missiles in Minecraft, made with only two TNT blocks.
 
-The A.N.T. has the special properties of traveling at "medium speed" (2.2 m/s), having a tiny explosion, busting through 1-block Shields, and being practically impossible to defuse.
+The A.N.T. has the special properties of traveling at "medium speed" (2.2 m/s), having a tiny explosion, busting through 1-block [Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield), and being practically impossible to defuse.
 
 TNT Count: 2
 

@@ -19,5 +19,5 @@ These are neither as fast as Lightning Speed Missiles nor as destructive as Heav
 - [Elder Guardian](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/elderguardian) - An upgrade from the Guardian in Missile Wars, the Elder Guardian is bigger and covers the TNT better.
 - [Gemini](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/gemini) - A twin missile. If one side is stopped, the other side of the missile will keep going.
 - [Lifter](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/lifter) - Lifts its warhead up by 3 blocks when it hits an obstacle.
-- [Slasher](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/slasher) - A glass-encased missile with not much TNT. It can slash straight through Shields.
+- [Slasher](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/slasher) - A glass-encased missile with not much TNT. It can slash straight through [Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield).
 - [TomaTwo](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/tomatwo) - A missile inspired by the Tomahawk from Missile Wars. This missile uses an observer engine.
