@@ -6,7 +6,7 @@ has_children: true
 permalink: /missiles/heavy/
 nav_order: 6
 ---
-# Heavy Damage Missiles
+**Heavy Damage Missiles**
 ---
 
 These deal the most damage of any missiles (besides [Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special)) in the game, at the cost of being more dangerous to ride without disarming.

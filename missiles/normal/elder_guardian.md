@@ -5,7 +5,7 @@ grand_parent: Missiles
 parent: Normal
 youtubeId: O6C2RLrxPMo
 ---
-# Elder Guardian
+**Elder Guardian**
 ---
 
 <table>

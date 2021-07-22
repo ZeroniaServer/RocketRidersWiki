@@ -5,7 +5,7 @@ grand_parent: Missiles
 parent: Heavy
 youtubeId: 2U2KtvqEzuM
 ---
-# Auxiliary
+**Auxiliary**
 ---
 
 <table>

@@ -5,7 +5,7 @@ grand_parent: Missiles
 parent: Lightning
 youtubeId: LCwzm9ja2rQ
 ---
-# Hurricane
+**Hurricane**
 ---
 
 <table>

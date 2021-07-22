@@ -5,7 +5,7 @@ grand_parent: Missiles
 parent: Special
 youtubeId: sSxj3Vcxs1I
 ---
-# Hypersonic
+**Hypersonic**
 ---
 
 <table>

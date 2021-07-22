@@ -6,10 +6,10 @@ has_children: true
 permalink: /missiles/special/
 nav_order: 8
 ---
-# Special Missiles
+**Special Missiles**
 ---
 
-These missiles are available exclusively in Powerups Mode and Swap Mode, as they are each too overpowered for general gameplay.
+These missiles are available exclusively in [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups) and [Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap), as they are each too overpowered for general gameplay.
 
 - [Broadsword](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/broadsword) - A fast and powerful missile that bombs a lot of TNT. It's like three Swords combined!
 - [Bullet](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/bullet) - With 44 TNT, 12 of which being triggers, the Bullet makes all missiles look like an [A.N.T.](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant)

@@ -6,7 +6,7 @@ has_children: true
 permalink: /missiles/normal/
 nav_order: 5
 ---
-# Normal Missiles
+**Normal Damage Missiles**
 ---
 
 These are neither as fast as [Lightning Speed Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning) nor as destructive as [Heavy Damage Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy); just somewhere in between. There are 10 missiles in this category:

@@ -6,7 +6,7 @@ has_children: true
 permalink: /missiles/lightning/
 nav_order: 7
 ---
-# Lightning Speed Missiles
+**Lightning Speed Missiles**
 ---
 
 These travel faster than any missiles (besides the [Hypersonic](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/hypersonic)) in the game, at the cost of being harder to deploy and ride successfully.
