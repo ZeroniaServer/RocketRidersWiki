@@ -9,7 +9,7 @@ nav_order: 0
 
 Rocket Riders is a reimagination of Sethbling and Cubehamster's *Missile Wars* (2014), featuring all new missiles, utility items, custom achievements, challenging gamemodes and modifiers, and tons more ways to customize your gameplay!
 
-This is a comprehensive resource for official information about all of the content Rocket Riders has to offer.
+This is a comprehensive resource for official information about everything Rocket Riders has to offer.
 
 Click on individual pages/categories on the left to learn more about each part of the game!  
 
