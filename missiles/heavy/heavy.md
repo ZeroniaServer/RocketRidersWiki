@@ -3,6 +3,7 @@ layout: default
 title: Heavy
 parent: Missiles
 has_children: true
+has_toc: false
 permalink: /missiles/heavy/
 nav_order: 6
 ---

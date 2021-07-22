@@ -3,6 +3,7 @@ layout: default
 title: Lightning
 parent: Missiles
 has_children: true
+has_toc: false
 permalink: /missiles/lightning/
 nav_order: 7
 ---

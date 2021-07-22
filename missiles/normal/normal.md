@@ -3,6 +3,7 @@ layout: default
 title: Normal
 parent: Missiles
 has_children: true
+has_toc: false
 permalink: /missiles/normal/
 nav_order: 5
 ---
