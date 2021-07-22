@@ -19,7 +19,7 @@ youtubeId: hyTl8Zjp7-M
             <b>Dimensions:</b> 12x3x3<br><br>
             <b>Difficulty of Riding:</b> Medium<br><br>
             <b>Category:</b> Special<br><br>
-            <b>Created by:</b> Chronos22<br>and Evtema3
+            <b>Created by:</b> Chronos22 and<br>Evtema3
         </td>
     </tr>
 </table>

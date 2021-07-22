@@ -19,7 +19,7 @@ youtubeId: RVonL1RKgsw
             <b>Dimensions:</b> 18x3x3<br><br>
             <b>Difficulty of Riding:</b> Medium<br><br>
             <b>Category:</b> Special<br><br>
-            <b>Created by:</b> Chronos22<br>and YZEROgame
+            <b>Created by:</b> Chronos22 and<br>YZEROgame
         </td>
     </tr>
 </table>
