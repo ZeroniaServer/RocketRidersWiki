@@ -3,7 +3,7 @@ layout: post
 title: Gamemodes
 has_children: true
 permalink: /gamemodes/
-nav_order: 2
+nav_order: 3
 ---
 # Gamemodes
 ---

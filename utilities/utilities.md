@@ -2,7 +2,7 @@
 layout: post
 title: Utilities
 has_children: true
-nav_order: 5
+nav_order: 2
 permalink: /utilities/
 ---
 # Utilities
