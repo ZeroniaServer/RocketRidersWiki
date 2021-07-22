@@ -5,9 +5,7 @@ permalink: /credits/
 ---
 # Credits
 ---
-
-Giving credits to the players who helped make this project the best it could be.
----
+*Giving credits to the players who helped make this project the best it could be.*
 
 **Development**\
 YZEROgame, Evtema3, and Chronos22 (Server Adaptation: JohnStar128, TraksAG, Llewv)
