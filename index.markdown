@@ -15,4 +15,10 @@ Click on individual pages/categories on the left to learn more about each part o
 
 ---
 
-<div align="center"><a href="https://www.planetminecraft.com/project/rocket-riders/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" /></a><a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" /></a><a href="https://cubekrowd.net/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" /></a></div>
+<style>
+    .banner {
+        max-width: 75vw;
+        height: auto;
+    }
+</style>
+<div align="center" class="banner"><a href="https://www.planetminecraft.com/project/rocket-riders/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" /></a><a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" /></a><a href="https://cubekrowd.net/"><img src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" /></a></div>
