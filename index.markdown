@@ -17,10 +17,10 @@ Click on individual pages/categories on the left to learn more about each part o
 ---
 
 <div align="center">
-    <a href="https://www.planetminecraft.com/project/rocket-riders/"><img style="text-decoration: none; height: 10; border: 0; width: 10; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" width="null" height="30px" />
+    <a href="https://www.planetminecraft.com/project/rocket-riders/"><img style="text-decoration: none; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/pmc_logo1.png" alt="Check us out on Planet Minecraft!" title="Check us out on Planet Minecraft!" width="null" height="30px" />
     </a>
-    <a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img style="text-decoration: none; height: 10; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" width="null" height="30px" />
+    <a href="https://youtube.com/playlist?list=PLPke2IloqMPrpmS_RpVvR0-dRQ_0zRC1g"><img style="text-decoration: none; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/rr_logo1.png" alt="Check out Rocket Riders showcase videos!" title="Check out Rocket Riders showcase videos!" width="null" height="30px" />
     </a>
-    <a href="https://cubekrowd.net/"><img style="text-decoration: none; height: 10; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" width="null" height="30px" />
+    <a href="https://cubekrowd.net/"><img style="text-decoration: none; border: 0; width: auto; max-width:100%; display: inline;" src="https://zeroniaserver.github.io/RocketRidersWiki/images/cubekrowd_logo1.png" alt="Play Rocket Riders on CubeKrowd!" title="Play Rocket Riders on CubeKrowd!" width="null" height="30px" />
     </a>
 </div>
