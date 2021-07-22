@@ -7,7 +7,7 @@ nav_order: 5
 # Achievements
 ---
 
-Rocket Riders has 38* custom achievements to earn as you play! Below is a comprehensive list of all the achievements, divided into categories based on their level of difficulty, along with a short description of their criteria.
+Rocket Riders has **38* custom achievements** to earn as you play! Below is a comprehensive list of all the achievements, divided into categories based on their level of difficulty, along with a short description of their criteria.
 
 (Note that these are currently inaccessible on the [CubeKrowd](https://cubekrowd.net/) version of Rocket Riders due to server limitations.)
 
