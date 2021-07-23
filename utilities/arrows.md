@@ -20,7 +20,7 @@ Players can also pick up arrows shot by themselves/other players from the ground
 
 **Arrows** are more useful than you'd think! You can shoot arrows at:
 - enemy players, to deal direct damage plus additional fire damage.
-- TNT (as well as [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal_platform) and [TNT Minecarts](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)), to ignite [missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles) and cause explosions.
+- TNT (as well as [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform) and [TNT Minecarts](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)), to ignite [missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles) and cause explosions.
 - a [Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex), to instantly explode it.
 - [Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy), either at the log to "fire-poof" them or at the leaves to set them on fire.
 - [Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball), to launch or deflect them.
@@ -28,7 +28,7 @@ Players can also pick up arrows shot by themselves/other players from the ground
 ---
 ### Gamemode Specific Behavior
 
-In [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups), players can receive up to 4 additional [tipped arrows](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#tipped_arrows) and [Infinity Sabers](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#infinity_saber) that shoot infinite (non-tipped) arrows while in control of the [Powerup Platform](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#powerup_platform).
+In [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups), players can receive up to 4 additional [tipped arrows](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#tipped_arrows) and [Infinity Sabers](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#infinity_saber) that shoot infinite (non-tipped) arrows while in control of the [Powerup Platform](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#powerup-platform).
 
 In [Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase), players always receive a new stack of 4 arrows upon respawning.
 

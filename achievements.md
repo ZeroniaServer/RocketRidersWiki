@@ -43,7 +43,7 @@ Below is a comprehensive list of all the achievements, divided into categories b
 - **Simple and Clean**: Win a game in under two minutes without your base taking any damage.
 - **They’re Useful!**: Prevent 20 explosions (all-time) using the [Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash).
 - **Under the Sea**: Kill someone while submerged in water.
-- **You Shouldn’t Bee Here!**: Get killed by a Bee in [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups).
+- **You Shouldn’t Bee Here!**: Get killed by a [Bee](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#stinging-shield) in [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups).
 
 **Hard Achievements**
 ---

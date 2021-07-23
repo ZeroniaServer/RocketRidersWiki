@@ -14,7 +14,7 @@ In general, **Fireballs** destroy any blocks they come into contact with (depend
 ---
 ### Use Cases
 
-Their most destructive use is being launched directly at TNT (as well as [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal_platform) and [TNT Minecarts](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)) to instantly explode it.
+Their most destructive use is being launched directly at TNT (as well as [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform) and [TNT Minecarts](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)) to instantly explode it.
 
 They may be launched at other blocks in a [missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles), such as the pistons/slime blocks in the engine, to disable that missile. Moreover, they can be launched at a base to deal slight damage to the base.
 
