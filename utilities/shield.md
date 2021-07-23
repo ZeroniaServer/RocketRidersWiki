@@ -28,7 +28,7 @@ Shields can also be used to protect and reinforce damaged areas in the base if t
 
 Through a technique known as "Shield-stacking," several Shields can be thrown on top of each other and mined into a staircase that gives players significant upper ground. Shields may also be thrown downwards to allow players to "low-ride," or travel on missiles beneath the usual playing area. (Although ill-advised if you wish to be a good sport, these are both undeniably valid strategies.)
 
-Shields __**cannot**__ be used to break the enemy team's nether portals.
+Shields <ins>**cannot**</ins> be used to break the enemy team's nether portals.
 
 ---
 ### Gamemode Specific Behavior
