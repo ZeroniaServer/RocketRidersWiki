@@ -26,6 +26,6 @@ youtubeId: hyTl8Zjp7-M
     </tr>
 </table>
 
-The **Bullet** makes all missiles look like an [A.N.T.](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant) With 44 TNT, 12 of which being triggers, you have to be very careful defusing this one!
+The **Bullet** makes all missiles look like an **[A.N.T.](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant)** With 44 TNT, 12 of which being triggers, you have to be very careful defusing this one!
 
 Its special properties are that its explosion deals collateral damage, it has multiple trigger TNT, it bombs 3 TNT upon impact, and it is nearly impossible to defuse.

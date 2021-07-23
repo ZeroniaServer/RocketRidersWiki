@@ -26,6 +26,6 @@ youtubeId: mLhUDtLWx5E
     </tr>
 </table>
 
-The **Warhead** is a Juggernaut-style missile. When the Warhead hits a wall, the piston on top of it will cover up the trigger TNT.
+The **Warhead** is a Juggernaut-style missile. When the **Warhead** hits a wall, the piston on top of it will cover up the trigger TNT.
 
 Its special properties are that its explosion deals collateral damage and that it is waterproof.

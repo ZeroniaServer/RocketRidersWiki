@@ -26,6 +26,6 @@ youtubeId: RVonL1RKgsw
     </tr>
 </table>
 
-The **Duplex** is like a ShieldBuster but takes a more creative approach. Instead of going through a [Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield), it will blow it up and keep on flying.
+The **Duplex** is like a ShieldBuster but takes a more creative approach. Instead of going through a **[Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**, it will blow it up and keep on flying.
 
-Its special properties are that it contains TNT minecarts, explodes twice, and has multiple trigger TNT.
+Its special properties are that it contains TNT Minecarts, explodes twice, and has multiple trigger TNT.

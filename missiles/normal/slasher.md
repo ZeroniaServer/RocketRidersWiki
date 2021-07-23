@@ -26,6 +26,6 @@ youtubeId: z3aNvDctb8U
     </tr>
 </table>
 
-The **Slasher** is a glass-encased missile with not much TNT. It can slash straight through [Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield).
+The **Slasher** is a glass-encased missile with not much TNT. It can slash straight through **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
 
 Its special properties are that it is resistant to arrows, can bust through two layers of blocks, is waterproof, and is nearly impossible to defuse.
