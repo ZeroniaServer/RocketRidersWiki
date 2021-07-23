@@ -8,7 +8,7 @@ nav_order: 0
 
 # 🚀 **Welcome to the Rocket Riders Wiki!** 🚀
 
-**Rocket Riders** is a reimagination of Sethbling and Cubehamster's *Missile Wars* (2014), featuring all new **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)**, **[utility items](https://zeroniaserver.github.io/RocketRidersWiki/utilities)**, **[custom achievements](https://zeroniaserver.github.io/RocketRidersWiki/achievements)**, challenging **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** and **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)**, and [tons more ways](https://zeroniaserver.github.io/RocketRidersWiki/modification_room) to customize your gameplay!
+**Rocket Riders** is a reimagination of Sethbling and Cubehamster's *Missile Wars* (2014), featuring all new **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)**, **[utility items](https://zeroniaserver.github.io/RocketRidersWiki/utilities)**, **[custom achievements](https://zeroniaserver.github.io/RocketRidersWiki/achievements)**, challenging **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** and **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)**, and **[tons more ways to customize your gameplay!](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**
 
 This is a comprehensive resource for official information about everything **Rocket Riders** has to offer.
 
