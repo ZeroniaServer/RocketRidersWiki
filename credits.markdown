@@ -29,10 +29,10 @@ vdvman1, Onnowhere, Tryashtar, PingiPuck, DarkKronicle, iRobo, Maxaxik, TheDestr
 CubeKrowd, MauveCraft, Unofficial Ranked Missile Wars, Toul\_, LogicBugs, iRobo, Minehut, Server<span>.</span>pro, Aternos
 
 **Promotional Material**\
-Yllva, Toul\_, Blocky, Kurusa
+Yllva, Toul\_, Blocky, Kuriku
 
 **Website Design**\
-JohnStar128, Evtema3, Kurusa
+JohnStar128, Evtema3, Kuriku
 
 **Inspiration**\
 SethBling and Cubehamster’s *Missile Wars* (2014)
