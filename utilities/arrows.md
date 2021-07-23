@@ -26,7 +26,7 @@ Players can also pick up arrows shot by themselves/other players from the ground
 - [Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball), to launch or deflect them.
 
 ---
-### Gamemode Specific Differences
+### Gamemode Specific Behavior
 
 In [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups), players can receive up to 4 additional [tipped arrows](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#tipped_arrows) and [Infinity Sabers](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#infinity_saber) that shoot infinite (non-tipped) arrows while in control of the [Powerup Platform](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#powerup_platform).
 
