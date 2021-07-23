@@ -1,6 +1,6 @@
 ---
 layout: post
-parent:  
+parent: \
 ---
 **Feathery Vortex**
 ---
