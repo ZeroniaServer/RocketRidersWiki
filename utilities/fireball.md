@@ -22,7 +22,7 @@ They can also be launched at [Canopies](https://zeroniaserver.github.io/RocketRi
 
 A quite niche final use is redirecting or launching other **Fireballs** (or even stationary [Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield) fireballs) they come into contact with.
 
-Note that they cannot be launched at **Portals** to end the game (in most [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes), anyway) unless the **Snipe Portals** [game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules) is enabled. They also do not interact with [Vortices](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex).
+Note that they cannot be launched directly at exposed portals to end the game (in most [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes), anyway) unless the **Snipe Portals** [game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules) is enabled. They also do not interact with [Vortices](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex).
 
 ---
 ### Gamemode Specific Behavior
