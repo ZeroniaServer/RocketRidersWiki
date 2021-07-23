@@ -20,3 +20,5 @@ If ~~you're insane~~ you're comfortable parsing through some mcfunctions, you ca
 If you wish to submit some of your own, visit the `#rr-splashes` channel on the **[Zeronia Discord Server!](https://discord.gg/X9bZgw7)** Who knows, you may see your submission in the next update!
 
 _*Note that some winner/loser splash messages are absent in **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**, as there is only one team and only one player can win._
+
+_Also note that splash messages are completely unrelated to the **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** utility item._
