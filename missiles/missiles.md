@@ -9,8 +9,10 @@ permalink: /missiles/
 # Missiles
 ---
 
-<img src="https://zeroniaserver.github.io/RocketRidersWiki/images/missiles.png" width="250" style="float: left; margin-right: 10px;" />
-<p>Rocket Riders features <b>20 all new, community-made missiles</b>.
+<div class="image">
+<img src="https://zeroniaserver.github.io/RocketRidersWiki/images/missiles.png" width="250" style="float: left; margin-right: 10px;" /></div>
+
+Rocket Riders features **20 all new, community-made missiles**.
 
 Missiles operate on slimestone flying machines and explode upon contact with an obstacle. Placing them down with their respective spawn egg sends a missile to the enemy base, where it deals damage to the base and explodes the portals behind it, thus winning the game (in most [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes), anyway). Players can also ride on top of missiles (hence the name "Rocket Riders") and reach the enemy base themselves, where they may deal even more damage by spawning missiles inside the base.
 
