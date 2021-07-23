@@ -9,10 +9,10 @@ nav_order: 2
 
 **Fireballs** work exactly the same in Rocket Riders as they do in *Missile Wars*: Place the blaze spawn egg down on the ground to spawn a **Fireball**, and punch it to launch it in a given direction.
 
+In general, **Fireballs** destroy any blocks they come into contact with (depending on the blast resistance of the material), set temporary fire wherever they land, and deal damage and knockback to enemy players they hit.
+
 ---
 ### Use Cases
-
-In general, **Fireballs** destroy any blocks they come into contact with (depending on the blast resistance of the material), set temporary fire wherever they land, and deal damage and knockback to enemy players they hit.
 
 Their most destructive use is being launched directly at TNT (as well as [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal_platform) and [TNT Minecarts](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)) to instantly explode it.
 
