@@ -8,23 +8,23 @@ youtubeId: FrK95ypVTQg
 **A.N.T.**
 ---
 
-<div class="tbl">
-  <div class="row">
-    <div class="cell span3-5">Showcase Video </div>
-    <div class="cell">Statistics </div>
-  </div>
-  <div class="row">
-    <div class="cell span3-5">{% include youtubePlayer.html id=page.youtubeId %}</div>
-    <div class="cell">
-      <div class="row"><b>TNT Count: </b>2</div>
-      <div class="row"><b>Speed: </b>2.2 m/s</div>
-      <div class="row"><b>Dimensions: </b>7x1x4</div>
-      <div class="row"><b>Riding: </b>Hard</div>
-      <div class="row"><b>Category: </b>Normal</div>
-      <div class="row"><b>Created by: </b>Evtema3</div>
-    </div>
-  </div>
-</div>
+<table>
+    <tr>
+        <th>Showcase Video</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>{% include youtubePlayer.html id=page.youtubeId %}</td>
+        <td>
+            <b>TNT Count:</b> 2<br><br>
+            <b>Speed:</b> 2.2 m/s<br><br>
+            <b>Dimensions:</b> 7x1x4<br><br>
+            <b>Difficulty of Riding:</b> Hard<br><br>
+            <b>Category:</b> Normal<br><br>
+            <b>Created by:</b> Evtema3
+        </td>
+    </tr>
+</table>
 
 The **A.N.T.** stands for Almost No TNT. It is one of the smallest functional missiles in Minecraft, made with only two TNT blocks.
 
