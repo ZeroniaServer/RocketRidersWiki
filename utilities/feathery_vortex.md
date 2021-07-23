@@ -1,7 +1,6 @@
 ---
 layout: post
-permalink: /utilities/feathery_vortex
-exclude: true
+parent:  
 ---
 **Feathery Vortex**
 ---
