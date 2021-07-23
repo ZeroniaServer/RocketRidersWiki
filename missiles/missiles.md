@@ -8,7 +8,7 @@ permalink: /missiles/
 ---
 # Missiles
 --- 
-Rocket Riders features **20 all new, community-made missiles**. The missiles are divided into four categories, ranging in speed, explosive power, and availability in certain [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes).
+Rocket Riders features **20 all new, community-made missiles**. The missiles are divided into four categories, ranging in speed, explosive power, and availability in certain [gamemodes.](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)
 
 Each category is listed below along with all the missiles in them. Click on the name of each missile to see more information about it!
 
