@@ -3,6 +3,7 @@ layout: post
 title: Miscellaneous
 has_children: true
 has_toc: false
+permalink: /misc/
 nav_order: 6
 ---
 # Miscellaneous
