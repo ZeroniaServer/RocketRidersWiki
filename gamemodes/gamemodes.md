@@ -20,5 +20,4 @@ Click on the links below to learn more about what each gamemode has to offer.
 - **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**
 - **[1v1 Duel Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/duel)**
 
-*Technical note: Each gamemode operates off of its own datapack. You can learn more about how that works **[here!](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/datapacks)***
-
+*Technical note: Each **gamemode** operates off of its own datapack. You can learn more about how that works **[here!](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/datapacks)***
