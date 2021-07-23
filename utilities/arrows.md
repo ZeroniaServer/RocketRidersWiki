@@ -18,7 +18,7 @@ Players can also pick up arrows shot by themselves/other players from the ground
 ---
 ### Use Cases
 
-**Arrows** are more useful than you'd think! You can shoot arrows at:
+Arrows are more useful than you'd think! You can shoot arrows at:
 - enemy players, to deal direct damage plus additional fire damage.
 - TNT (as well as [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform) and [TNT Minecarts](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)), to ignite [missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles) and cause explosions.
 - a [Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex), to instantly explode it.
