@@ -7,16 +7,20 @@ has_toc: false
 permalink: /missiles/
 ---
 # Missiles
---- 
-Rocket Riders features **20 all new, community-made missiles**. The missiles are divided into 4 categories, ranging in speed, explosive power, and availability in certain [gamemodes.](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)
+---
 
-Each category is listed below along with all the missiles in them. Click on the name of each missile to see more information about it!
+<img src="https://zeroniaserver.github.io/RocketRidersWiki/images/missiles.png" width="250" style="float: left; margin-right: 10px;" />
+<p>Rocket Riders features <b>20 all new, community-made missiles</b>.
+
+Missiles operate on slimestone flying machines and explode upon contact with an obstacle. Placing them down with their respective spawn egg sends a missile to the enemy base, where it deals damage to the base and explode the portals behind it, thus winning the game (in most [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes), anyway). Players can also ride on top of missiles (hence the name "Rocket Riders") and reach the enemy base themselves, where they may deal even more damage by spawning missiles inside the base.
+
+The missiles are divided into 4 categories, ranging in speed, explosive power, and availability in certain gamemodes. Each missile category is listed below along with all the missiles in them. Click on the name of each missile to see more information about it!
 
 **Normal Damage Missiles**
 ---
 These are neither as fast as [Lightning Speed Missiles](#lightning-speed-missiles) nor as destructive as [Heavy Damage Missiles](#heavy-damage-missiles); just somewhere in between. There are 10 missiles in this category:
 
-- [A.N.T](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant) - Stands for Almost No TNT. It is one of the smallest functional missiles, made with only two TNT blocks.  
+- [A.N.T.](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant) - Stands for Almost No TNT. It is one of the smallest functional missiles, made with only two TNT blocks.  
 - [Blade](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/blade) - A sword-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.
 - [Catapult](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/catapult) - Once it contacts a wall, it launches 2 TNT blocks out. You can also launch TNT by breaking the back slime block.
 - [Chronullifier](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/chronullifier) - Uses a unique observer engine with the same speed as non-observer engines.
