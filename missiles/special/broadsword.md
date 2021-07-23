@@ -26,7 +26,7 @@ youtubeId: VKvob-2VeSM
     </tr>
 </table>
 
-The **Broadsword** is a fast and powerful missile that bombs a lot of TNT. It's like three Swords combined!
+The **Broadsword** is a fast and powerful missile that bombs a lot of TNT. It's like three **Swords** combined!
 
 Its special properties are that it has multiple trigger TNT, it has bombing functionality, and it is nearly impossible to defuse.
 

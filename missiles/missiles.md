@@ -41,15 +41,15 @@ These are neither as fast as **[Lightning Speed Missiles](https://zeroniaserver.
 These deal the most damage of any missiles (besides **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special)**) in the game, at the cost of being more dangerous to ride without disarming.
 
 - **[Auxiliary](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/auxiliary)** - This missile has 6 trigger TNT in it, making it risky to defuse.
-- **[Juggerbuster](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/juggerbuster)** - This missile has the power of a Juggernaut plus the ability to bust through **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
+- **[Juggerbuster](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/juggerbuster)** - This missile has the power of a **Juggernaut** plus the ability to bust through **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
 - **[Rifter](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/rifter)** - An observer engine missile with plenty of TNT to blow up a portal.
-- **[Warhead](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/warhead)** - A Juggernaut-style missile. When it hits a wall, a piston will cover up the trigger TNT.
+- **[Warhead](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/warhead)** - A **Juggernaut**-style missile. When it hits a wall, a piston will cover up the trigger TNT.
 
 **Lightning Speed Missiles**
 ---
 These travel faster than any missiles (besides the **[Hypersonic](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/hypersonic)**) in the game, at the cost of being harder to deploy and ride successfully.
 
-- **[Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane)** - Bears much resemblance to the Lightning from *Missile Wars*, but features more TNT and a tight design.
+- **[Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane)** - Bears much resemblance to the **Lightning** from *Missile Wars*, but features more TNT and a tight design.
 - **[Thunderbolt](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/thunderbolt)** - Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
 
 **Special Missiles**
@@ -57,6 +57,6 @@ These travel faster than any missiles (besides the **[Hypersonic](https://zeroni
 These missiles are available exclusively in **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)** and **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, as they are each too overpowered for general gameplay.
 
 - **[Broadsword](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/broadsword)** - A fast and powerful missile that bombs a lot of TNT. It's like three Swords combined!
-- **[Bullet](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/bullet)** - With 44 TNT, 12 of which being triggers, the Bullet makes all missiles look like an **[A.N.T.](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant)**
-- **[Duplex](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)** - Like a ShieldBuster, but instead of going through a **[Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**, it will blow it up and keep on flying.
+- **[Bullet](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/bullet)** - With 44 TNT, 12 of which being triggers, the **Bullet** makes all missiles look like an **[A.N.T.](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/ant)**
+- **[Duplex](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)** - Like a **ShieldBuster**, but instead of going through a **[Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**, it will blow it up and keep on flying.
 - **[Hypersonic](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/hypersonic)** - The fastest missile in the game. It might be very hard to get on this one!

@@ -26,7 +26,7 @@ youtubeId: O6C2RLrxPMo
     </tr>
 </table>
 
-An upgrade from the original Guardian in *Missile Wars*, the **Elder Guardian** is bigger and covers the TNT better.
+An upgrade from the original **Guardian** in *Missile Wars*, the **Elder Guardian** is bigger and covers the TNT better.
 
 Its special properties are that it is resistant to arrows, has bombing functionality, is waterproof, and is nearly impossible to defuse once it detonates.
 

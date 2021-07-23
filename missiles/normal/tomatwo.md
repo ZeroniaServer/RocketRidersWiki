@@ -26,4 +26,4 @@ youtubeId: dBGdoUi4ltg
     </tr>
 </table>
 
-The **TomaTwo** is a missile inspired by the Tomahawk from *Missile Wars*. This missile uses an observer engine.
+The **TomaTwo** is a missile inspired by the **Tomahawk** from *Missile Wars*. This missile uses an observer engine.

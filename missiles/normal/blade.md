@@ -26,6 +26,6 @@ youtubeId: UgrDcZYMzEY
     </tr>
 </table>
 
-The **Blade** is a sword-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.
+The **Blade** is a **Sword**-shaped missile. Breaking the slime block on the side will drop down 3 bomber TNT below it.
 
 Its special properties are having multiple trigger TNT and being nearly impossible to defuse once it detonates.

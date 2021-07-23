@@ -26,6 +26,6 @@ youtubeId: J6D6TDm7_Gc
     </tr>
 </table>
 
-The **Juggerbuster** is a Juggernaut-ShieldBuster hybrid, in that it has the power of a Juggernaut plus the ability of a ShieldBuster.
+The **Juggerbuster** is a **Juggernaut**-**ShieldBuster** hybrid, in that it has the power of a **Juggernaut** plus the ability of a **ShieldBuster**.
 
 Its special properties are that its explosion deals collateral damage, it has multiple triggers, it can bust through 1-block thick **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**, and it is nearly impossible to defuse once it detonates.

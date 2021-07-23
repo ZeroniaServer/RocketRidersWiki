@@ -26,4 +26,4 @@ youtubeId: LCwzm9ja2rQ
     </tr>
 </table>
 
-The **Hurricane** bears much resemblance to the Lightning from *Missile Wars*, but features more TNT and a tight design.
+The **Hurricane** bears much resemblance to the **Lightning** from *Missile Wars*, but features more TNT and a tight design.
