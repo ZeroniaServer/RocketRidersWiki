@@ -7,7 +7,7 @@ nav_order: 3
 **Shield**
 ---
 
-**Shields** are throwable snowballs that place a 7x7 upright disc of glass and glass panes (colored respectively to the team of the thrower) wherever they end up after 1 second of uninterrupted flight. Unless broken or exploded, the **Shield** remains on the map until the arena is cleared.
+**Shields** are throwable snowballs that place a 7x7 upright disk of glass and glass panes (colored respectively to the team of the thrower) wherever they end up after 1 second of uninterrupted flight. Unless broken or exploded, the **Shield** remains on the map until the arena is cleared.
 
 ---
 ### Use Cases
