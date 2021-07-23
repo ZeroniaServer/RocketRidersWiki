@@ -30,11 +30,11 @@ These are neither as fast as **[Lightning Speed Missiles](https://zeroniaserver.
 - **[Catapult](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/catapult)** - Once it contacts a wall, it launches 2 TNT blocks out. You can also launch TNT by breaking the back slime block.
 - **[Chronullifier](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/chronullifier)** - Uses a unique observer engine with the same speed as non-observer engines.
 - **[Citadel](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/citadel)**- Good for surprise attacks. You can climb inside the missile using the trapdoor on top of it.
-- **[Elder Guardian](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/elder_guardian)** - An upgrade from the Guardian in Missile Wars, the Elder Guardian is bigger and covers the TNT better.
+- **[Elder Guardian](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/elder_guardian)** - An upgrade from the Guardian in *Missile Wars*, the Elder Guardian is bigger and covers the TNT better.
 - **[Gemini](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/gemini)**- A twin missile. If one side is stopped, the other side of the missile will keep going.
 - **[Lifter](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/lifter)**- Lifts its warhead up by 3 blocks when it hits an obstacle.
 - **[Slasher](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/slasher)**- A glass-encased missile with not much TNT. It can slash straight through **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
-- **[TomaTwo](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/tomatwo)**- A missile inspired by the Tomahawk from Missile Wars. This missile uses an observer engine.
+- **[TomaTwo](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal/tomatwo)**- A missile inspired by the Tomahawk from *Missile Wars*. This missile uses an observer engine.
 
 **Heavy Damage Missiles**
 ---
@@ -49,7 +49,7 @@ These deal the most damage of any missiles (besides **[Special Missiles](https:/
 ---
 These travel faster than any missiles (besides the **[Hypersonic](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/hypersonic)**) in the game, at the cost of being harder to deploy and ride successfully.
 
-- **[Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane)** - Bears much resemblance to the Lightning from Missile Wars, but features more TNT and a tight design.
+- **[Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane)** - Bears much resemblance to the Lightning from *Missile Wars*, but features more TNT and a tight design.
 - **[Thunderbolt](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/thunderbolt)** - Breaking too much TNT may stop this missile, but its length and 2x2 form factor make it easier to ride.
 
 **Special Missiles**
