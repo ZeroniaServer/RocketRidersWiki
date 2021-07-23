@@ -9,6 +9,7 @@ nav_order: 3
 
 **Shields** are throwable snowballs that place a 7x7 upright disc of glass and glass panes (colored respectively to the team of the thrower) wherever they end up after 1 second of uninterrupted flight. Unless broken or exploded, the Shield remains on the map until the arena is cleared.
 
+---
 ### Use Cases
 
 Shields are very useful for stopping [missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles). When a Shield is thrown in front of a missile, it presents an obstacle that the missile may not be able to pass through due to the 12-block piston push limit, forcing it to stop and (if not already disarmed) detonate and explode.
@@ -27,6 +28,7 @@ Shields can also be used to protect and reinforce damaged areas in the base if t
 
 Through a technique known as "Shield-stacking," several Shields can be thrown on top of each other and mined into a staircase that gives players significant upper ground. Shields may also be thrown downwards to allow players to "low-ride," or travel on missiles beneath the usual playing area. (Although ill-advised if you wish to be a good sport, these are both undeniably valid strategies.)
 
-### Gamemode Specific Behaviors
+---
+### Gamemode Specific Behavior
 
 In [Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups), Shield snowball projectiles can be used to deal knockback to [Bees](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#stinging-shield) and set off [End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform).
