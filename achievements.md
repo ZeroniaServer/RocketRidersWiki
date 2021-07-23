@@ -35,7 +35,7 @@ Below is a comprehensive list of all the achievements, divided into categories b
 - **Gravitational Shootout**: Land five shots on players while falling in one game.
 - **Immortal**: Do not die during a game.
 - **Just Give Me That Flag Already**: Get killed on your own base.
-- **Lockdown**: Keep the [Powerup Platform](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#powerups-platform) under your team’s possession for one consecutive minute.
+- **Lockdown**: Keep the [Powerup Platform](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#powerup-platform) under your team’s possession for one consecutive minute.
 - **\| \|\| \|\| \|\_**: Lose a game after having a 10-game win streak.
 - **One is the Loneliest Number**: Win a game against a team of two or more players by yourself.
 - **Premature Celebration**: Win a game before it becomes a tie.

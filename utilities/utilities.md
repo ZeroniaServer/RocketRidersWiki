@@ -22,5 +22,5 @@ Below is a list of every utility in the general game*. Click on each one to lear
 - [Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)  
 - [Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)  
 
-*Note that there are other exclusive utilities in certain [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes).
+_*Note that there are other exclusive utilities in certain [gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)._
 
