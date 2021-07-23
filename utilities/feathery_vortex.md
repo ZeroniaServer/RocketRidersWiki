@@ -1,9 +1,7 @@
 ---
 layout: post
-parent: \
-search: exclude
-sitemap: false
-hidden: true
+nav_exclude: true
+search_exclude: true
 ---
 **Feathery Vortex**
 ---
