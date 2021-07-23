@@ -10,7 +10,8 @@ permalink: /missiles/
 ---
 
 <div class="image">
-<img src="https://zeroniaserver.github.io/RocketRidersWiki/images/missiles.png" width="250" style="float: left; margin-right: 10px;" /></div>
+    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/missiles.png" width="250" id="art_image" />
+</div>
 
 Rocket Riders features **20 all new, community-made missiles**.
 
