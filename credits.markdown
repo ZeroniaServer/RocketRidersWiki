@@ -32,7 +32,7 @@ CubeKrowd, MauveCraft, Unofficial Ranked Missile Wars, Toul\_, LogicBugs, iRobo,
 Yllva, Toul\_, Blocky, Kuriku
 
 **Website Design**\
-JohnStar128, Evtema3, Kuriku
+JohnStar128, Evtema3, Kuriku, CAG2
 
 **Inspiration**\
 SethBling and Cubehamster’s *Missile Wars* (2014)
