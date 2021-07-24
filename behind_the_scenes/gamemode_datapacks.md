@@ -71,10 +71,10 @@ tag @e[type=armor_stand,tag=Selection] add respawnFlag
 ```
 
 So, in addition to removing `switchGamemodes` and adding the `swapEnabled` tag (which, by the way, any gamemode datapack will add a `[gamemode]Enabled` tag to the **Selection armor stand** like that when it is enabled), this function also:
-- summons a separate marker entity for the Swap timer mechanic
-- disables a couple incompatible **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)**
-- disables the usual **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)** functions so that it can run its own functions for the **[ICBM](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap#ICBM)**
-- adds another special tag called `respawnFlag` that is way too technical to fully explain but essentially makes it easier to check when players die for the purpose of the **ICBM** giving kill credit
+- summons a separate marker entity for the Swap timer mechanic.
+- disables a couple incompatible **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)**.
+- disables the usual **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)** functions so that it can run its own functions for the **[ICBM](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap#ICBM)**.
+- adds another special tag called `respawnFlag` that is way too technical to fully explain but essentially makes it easier to check when players die for the purpose of the **ICBM** giving kill credit.
 
 That may have been a bit too in depth of an example, but the point is that the `enable` function ensures any special game configurations are set once the gamemode is enabled.
 
@@ -111,11 +111,11 @@ execute unless entity @e[type=marker,tag=PlacerClear] run function game:forcesto
 ```
 
 In essence, this function:
-- summons the gamemode armor stand
-- adds any necessary scoreboard objectives (not applicable here)
-- announces the gamemode has been properly installed
-- lets the game know that the normal datapack is safely configured by adding 1 to the gamemode armor stand's `CmdData` score
-- forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions)**)
+- summons the gamemode armor stand.
+- adds any necessary scoreboard objectives (not applicable here).
+- announces the gamemode has been properly installed.
+- lets the game know that the normal datapack is safely configured by adding 1 to the gamemode armor stand's `CmdData` score.
+- forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions)**).
 
 Generally speaking, you will only ever have to run this kind of a function if there are new gamemodes released as additional downloadable content for existing **Rocket Riders** worlds (*hint hint*). Before that, of course, you will need to run `/datapack enable` for whichever datapack the gamemode corresponds to; that way, Minecraft recognizes all the functions it contains.
 
@@ -133,13 +133,13 @@ scoreboard players add @e[type=armor_stand,tag=Selection,limit=1] refreshsigns 1
 ```
 
 In essence, this function:
-- instructs the game to forcibly clear the arena the next time settings are confirmed if this gamemode was the last one played
-- disables the gamemode
-- kills the gamemode armor stand
+- instructs the game to forcibly clear the arena the next time settings are confirmed if this gamemode was the last one played.
+- disables the gamemode.
+- kills the gamemode armor stand.
 - refreshes the gamemode IDs of every remaining gamemode armor stand so that there is no gap in IDs
-- announces successful uninstallation and prompts the player to disable the datapack
-- forcibly stops the game
-- refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that the gamemode is no longer installed
+- announces successful uninstallation and prompts the player to disable the datapack.
+- forcibly stops the game.
+- refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that the gamemode is no longer installed.
 
 Generally speaking, you should never have to run this kind of function (and especially *never* run it for **Normal Mode**!) unless something goes absolutely horribly wrong. It is very ill-advised to run it while the gamemode is enabled and in active play, as the arena will need to be forcibly cleared (which does not include anything special this gamemode may have left in the arena). Do so at your own risk.
 
@@ -149,7 +149,7 @@ Generally speaking, you should never have to run this kind of function (and espe
 Assuming the [`ifenabled` function](#ifenabled-function) is configured correctly, there should be three functions in the `game` folder of the datapack that run depending on the current state of the game:
 
 - `gamestart`, which runs every tick regardless of if the game has started or not. This function generally regulates starter gear the players receive, joinable teams, and countdown events.
-- `ingame`, which runs every tick once the game has started. This function generally regulates **[Item RNG](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/item_rng)**, spawnpoints, win conditions, and custom mechanics for the gamemode
+- `ingame`, which runs every tick once the game has started. This function generally regulates **[Item RNG](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/item_rng)**, spawnpoints, win conditions, and custom mechanics for the gamemode.
 - `gameend`, which runs for 570 ticks once the game has ended. This function generally empties the players' inventories, resets tags and scores, announces relevant match statistics, and kills unnecessary entities.
 
 There may be other functions in the `game` folder depending on what other functionalities the gamemode requires; this varies heavily from datapack to datapack. However, these three functions should *always* be in the `game` folder and should be called by the `ifenabled` function.
@@ -186,8 +186,8 @@ Once again, the functions in this folder depend heavily on the needs of the game
 
 The last things all gamemode datapacks should have are:
 
-- an `info` function, which is simply a list of `tellraw` commands that print information about the game in chat (run upon clicking the *Gamemode Info* sign in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_roomm)**)
-- a `tip` function, which announces relevant **[tips](https://zeroniaserver.github.io/RocketRidersWiki/misc/tips)** for the given gamemode in chat
+- an `info` function, which is simply a list of `tellraw` commands that print information about the game in chat (run upon clicking the *Gamemode Info* sign in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_roomm)**).
+- a `tip` function, which announces relevant **[tips](https://zeroniaserver.github.io/RocketRidersWiki/misc/tips)** for the given gamemode in chat.
 
 Assuming the [`ifenabled` function](#ifenabled-function) is configured correctly, these functions run on their own and perform the expected functionality.
 
