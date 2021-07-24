@@ -21,6 +21,6 @@ OR if you get lucky it turns into a **Feathery Vortex** and it's really cool bec
 
 oh crap wait there's more right ok so these bad boys aren't in **[1v1 Duel Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/duel)** because that would just be dumb and unfair right
 
-also they don't exist in **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)** because instead eggs become epic cool ICBM explosions that go boom boom pow bam and that means no vortex (sadge)
+also they don't exist in **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)** because instead eggs become epic cool **[ICBM](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap#ICBM)** explosions that go boom boom pow bam and that means no vortex (sadge)
 
 but yeah they exist everywhere else so have fun with that nerds
