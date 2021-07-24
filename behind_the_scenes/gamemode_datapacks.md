@@ -16,7 +16,7 @@ Well... not everything in that page was correct. In fact, there's a little bit m
 
 So, when you pull back the curtains and turn off the smoke machines, each **[gamemode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** is actually its own little datapack. The datapack folders and their namespaces are all prefixed by `rr_`, with the abbreviated name of the gamemode after. For instance, the **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)** datapack is called `rr_powerups` internally, and the **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)** datapack is called `rr_ctf`.
 
-Each of these datapacks also have their own little armor stand. Not as cool as the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, of course. But these armor stands are in the same obscure corner of the Lobby, have tags named after their gamemodes (so the **Powerups** one has the tag `rr_powerups`, for example), and may have other tags or scoreboard data associated with them for their respective gamemodes. The game knows that a gamemode is "installed" (more on that later... or you can skip down [here](#install-and-uninstall-functions)) when this armor stand is present.
+Each of these datapacks also have their own little armor stand. Not as cool as the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, of course. But these armor stands are in the same obscure corner of the Lobby, have tags named after their gamemodes (so the **Powerups** one has the tag `rr_powerups`, for example), and may have other tags or scoreboard data associated with them for their respective gamemodes. The game knows that a gamemode is "installed" (more on that later... or you can skip down **[here](#install-and-uninstall-functions)**) when this armor stand is present.
 
 More than that, each gamemode datapack has a standardized set of files and folders that define how the game operates in different states and configurations (for instance, which teams players can join, which items are given, where players spawn, how you win the game, etc.). During development, this system of architecture was key to modularizing the common functionalities of each gamemode. (Say that sentence ten times fast!)
 
@@ -85,7 +85,7 @@ Likewise, the `disable` function ensures that these game configurations are reve
 
 This one gets quite messy, and I'm not even going to try to paste everything into this page. You can read the example `ifenabled` function for **Normal Mode [here](https://github.com/ZeroniaServer/RocketRiders/blob/master/rr_normal/data/rr_normal/functions/ifenabled.mcfunction)**.
 
-To provide some explanation, though: this is basically everything that needs to run whenever the gamemode is actually active. Think of it like the trunk of a "gamemode datapack tree," and all the branches and leaves connecting to it as all the different functions that need to be run at any moment (whether for starting the game, ending the game, or **[clearing the arena](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**). There's also some special things that need to happen for the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** gamemode selection interface to work, and some other special things to make sure players know what gamemode is currently active. But everything here is pretty standard for any gamemode datapack, and we'll talk about it more later (or click [here](#game-folder) to skip to that section).
+To provide some explanation, though: this is basically everything that needs to run whenever the gamemode is actually active. Think of it like the trunk of a "gamemode datapack tree," and all the branches and leaves connecting to it as all the different functions that need to be run at any moment (whether for starting the game, ending the game, or **[clearing the arena](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**). There's also some special things that need to happen for the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** gamemode selection interface to work, and some other special things to make sure players know what gamemode is currently active. But everything here is pretty standard for any gamemode datapack, and we'll talk about it more later (or click **[here](#game-folder)** to skip to that section).
 
 ---
 ### `iflast` Function
@@ -97,7 +97,7 @@ execute if entity @e[type=marker,tag=PlacerClear,tag=!Cleared] run tag @s remove
 tag @e[type=marker,tag=PlacerClear] add Cleared
 ```
 
-The `iflast` function will always tie into the **[arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)** system and make sure to run this gamemode's special `areaclear` function to clean up anything unique to the gamemode from the playing area (see [`arenaclear` Folder](#arenaclear-folder)).
+The `iflast` function will always tie into the **[arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)** system and make sure to run this gamemode's special `areaclear` function to clean up anything unique to the gamemode from the playing area (see **[`arenaclear` Folder](#arenaclear-folder)**).
 
 ---
 ### `install` and `uninstall` Functions
@@ -122,26 +122,30 @@ Generally speaking, you will only ever have to run this kind of a function if th
 As for uninstallation, take a look at `rr_normal:uninstall`:
 ```
 tag @e[type=armor_stand,tag=Selection,tag=normalLast,limit=1] add needsForceClear
+execute as @e[type=armor_stand,tag=Selection,tag=normalLast,limit=1] run function rr_normal:arenaclear/areaclear
 tag @e[type=armor_stand,tag=Selection,tag=normalLast,limit=1] remove normalLast
-function rr_normal:disable
 execute if entity @e[type=armor_stand,tag=rr_normal,limit=1] run kill @e[type=armor_stand,tag=rr_normal,limit=1]
 scoreboard players reset * gamemodeID
 execute unless entity @e[type=armor_stand,tag=rr_normal,limit=1] run tellraw @s {"text":"Normal Mode uninstalled.","color":"red","bold":true}
 execute unless entity @e[type=armor_stand,tag=rr_normal,limit=1] run tellraw @s {"text":"Click here to disable the Normal Mode datapack (recommended).","color":"red","underline":true,"clickEvent":{"action":"run_command","value":"/datapack disable \"file/rr_normal\""}}
 execute unless entity @e[type=marker,tag=PlacerClear] run function game:forcestop
+schedule function rr_normal:disable 1t append
 scoreboard players add @e[type=armor_stand,tag=Selection,limit=1] refreshsigns 1
 ```
 
 In essence, this function:
 - instructs the game to forcibly clear the arena the next time settings are confirmed if this gamemode was the last one played.
-- disables this gamemode.
+- runs this gamemode's `areaclear` function if it was the last one played.
+- makes the game forget this gamemode was the last one played. 
 - kills this gamemode armor stand.
 - refreshes the IDs of every other gamemode armor stand so that there is no gap in IDs.
+- removes any other scoreboards/bossbars/entities/etc. the gamemode may use (not applicable here).
 - announces successful uninstallation and prompts the player to disable the datapack.
 - forcibly stops the game to ensure nothing breaks as a result of gamemode uninstallation.
+- disables this gamemode after 1 tick of delay to ensure the game is properly ended.
 - refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that this gamemode is no longer installed.
 
-Generally speaking, you should never have to run this kind of function (and especially *never* run it for **Normal Mode**!) unless something goes absolutely horribly wrong. It is very ill-advised to run it while the gamemode is enabled and in active play, as the arena will need to be forcibly cleared (which does not include anything special this gamemode may have left in the arena). Do so at your own risk.
+Generally speaking, you should never have to run this kind of function (and especially *never* run it for **Normal Mode**!) unless something goes absolutely horribly wrong. You can run it at any point in the game and expect it to cleanly uninstall the gamemode and all of its assets.
 
 ---
 ### `game` Folder
@@ -159,7 +163,7 @@ There may be other functions in the `game` folder depending on what other functi
 
 Assuming the [`iflast` function](#iflast-function) is configured correctly, there should be two functions in the `arenaclear` folder of the datapack which run during and after an **[arena clear](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**: `areaclear` and `baseplacement`.
 
-The `areaclear` function is run when an arena clear is actively taking place. In **[Normal Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/normal)**, all that needs to really happen in the `areaclear` function is allowing players to join teams again (by removing the `cancelJoin` tag from the join pad entities). However, for other gamemodes like **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, custom utilities like **[Stinging Shields](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#stinging-shield)** need to be properly removed from the arena. Therefore, this is a quite important part to have in any gamemode datapack.
+The `areaclear` function is run when an arena clear is actively taking place. In **[Normal Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/normal)**, nothing needs to happen here since everything is taken care of in the **[`rocketriders` datapack](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/rr_datapack#arenaclear-folder)**. However, for other gamemodes like **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, custom utilities like **[Stinging Shields](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#stinging-shield)** need to be properly removed from the arena. Therefore, this is a quite important part to have in any gamemode datapack.
 
 The `baseplacement` function is run after an arena clear has taken place and configures the arena for the next selected gamemode. In **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, for instance, this function decides which team is Dark and which team is Light, while also setting the correct blocks in the newly placed bases. In **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)**, this function converts the bases from glass into concrete and places four flagpoles. For any gamemodes that make changes to the arena or require some initial setup before the game starts, this function is incredibly important.
 
