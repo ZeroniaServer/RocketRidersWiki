@@ -7,7 +7,7 @@ nav_order: 3
 **The `rocketriders` Datapack**
 ---
 
-The `rocketriders` datapack is the main brains of the game! (Besides the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, of course.) You can find it **[here](https://github.com/ZeroniaServer/RocketRiders/tree/master/rocketriders)** on the **Rocket Riders codebase**.
+The `rocketriders` datapack is the main brains of the game! (Besides the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, of course.) You can find it **[here](https://github.com/ZeroniaServer/RocketRiders/tree/master/rocketriders/data)** on the **Rocket Riders codebase**.
 
 A quick glance at the datapack will reveal that it is a massive, sprawling mess. (Well, so was the development of the game... art imitates life, or something like that.)
 
@@ -51,7 +51,7 @@ This folder contains several functions that are crucial to the operation and int
 ---
 ## `modifiers` Folder
 
-This folder contains all the functions necessary for **[Modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)** to work, including what actually runs ingame when a modifier is active, selecting modifiers in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**, disabling all modifiers, and seeing information about each modifier.
+This folder contains all the functions necessary for **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)** to work, including what actually runs ingame when a modifier is active, selecting modifiers in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**, disabling all modifiers, and seeing information about each modifier.
 
 ---
 ## `achievements` Folder
@@ -72,19 +72,31 @@ Some other functions exist there for the purpose of resetting all-time or per-ro
 ---
 ## `items` Folder
 
-THIS SECTION IS A WORK IN PROGRESS.
+This folder contains all the functions and loot tables used for giving items (see **[Item RNG](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/item_rng)**) and spawning **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (see **[Missile Spawning](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/missile_spawning)**) in the base game.
+
+There are also functions here for preventing item duplication, making **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)** like **Surprise Egg**, **Wind Down**, and **Minute Mix** work, and tracking where missiles have been spawned for the purposes of **[arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**.
 
 ---
 ## `game` Folder
 
-THIS SECTION IS A WORK IN PROGRESS.
+This folder contains all the functions used to control game states and events like the countdown before the game starts, what happens during the game, and what happens when the game is ending, as well as giving players starter gear, controlling join pads, killing players in the void, and the like.
+
+There are also functions (and an advancement) here used to determine whom to reward kill credit to when a player has been killed indirectly by a **[utility](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** item such as a **[Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)** or **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**.
 
 ---
 ## `arenaclear` Folder
 
-THIS SECTION IS A WORK IN PROGRESS.
+This folder contains all the functions used to clear the arena (see **[arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)** for an in-depth look at how this works!), set down new bases with **[base decorations](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/base_customizer)**, and make the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** functional as a whole.
+
+From a top down view, think of the `game` folder as accounting for about three quarters of the actual game loop (starting the game, playing the game, and ending the game) and the `arenaclear` folder accounting for the last quarter (preparing a new game).
 
 ---
 ## `everytick` Folder
 
-THIS SECTION IS A WORK IN PROGRESS.
+This folder generally contains all the functions that must run every tick (as the name implies), including the aforementioned `everytick:everytick` function at the root of all code execution.
+
+This is too broad to properly narrow down, but the most concrete examples are that all the functions for **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** are located in this folder, as well as anything for handling new players/relogs, preventing fall damage, preventing item dropping, and preventing players from entering the Nether.
+
+The `everytick:general_settings_and_hotfixes` function is also used for many miscellaneous purporses driving certain functionalities of the Lobby, giving necessary effects/tags/scores to players, and ensuring some utilities work as intended.
+
+Although this could easily be said for any of the last few sections, without this folder, the rest of the game just could not operate.
