@@ -139,7 +139,7 @@ In essence, this function:
 - refreshes the IDs of every other gamemode armor stand so that there is no gap in IDs.
 - announces successful uninstallation and prompts the player to disable the datapack.
 - forcibly stops the game.
-- refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that the gamemode is no longer installed.
+- refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that this gamemode is no longer installed.
 
 Generally speaking, you should never have to run this kind of function (and especially *never* run it for **Normal Mode**!) unless something goes absolutely horribly wrong. It is very ill-advised to run it while the gamemode is enabled and in active play, as the arena will need to be forcibly cleared (which does not include anything special this gamemode may have left in the arena). Do so at your own risk.
 
