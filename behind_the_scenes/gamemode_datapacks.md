@@ -121,28 +121,29 @@ Generally speaking, you will only ever have to run this kind of a function if th
 
 As for uninstallation, take a look at `rr_normal:uninstall`:
 ```
+function rr_normal:disable
 tag @e[type=armor_stand,tag=Selection,tag=normalLast,limit=1] add needsForceClear
 execute as @e[type=armor_stand,tag=Selection,tag=normalLast,limit=1] run function rr_normal:arenaclear/areaclear
 tag @e[type=armor_stand,tag=Selection,tag=normalLast,limit=1] remove normalLast
 execute if entity @e[type=armor_stand,tag=rr_normal,limit=1] run kill @e[type=armor_stand,tag=rr_normal,limit=1]
 scoreboard players reset * gamemodeID
+execute unless entity @e[type=marker,tag=PlacerClear] run function game:forcestop
+execute unless entity @e[type=marker,tag=PlacerClear] run function rr_normal:game/gameend
 execute unless entity @e[type=armor_stand,tag=rr_normal,limit=1] run tellraw @s {"text":"Normal Mode uninstalled.","color":"red","bold":true}
 execute unless entity @e[type=armor_stand,tag=rr_normal,limit=1] run tellraw @s {"text":"Click here to disable the Normal Mode datapack (recommended).","color":"red","underline":true,"clickEvent":{"action":"run_command","value":"/datapack disable \"file/rr_normal\""}}
-execute unless entity @e[type=marker,tag=PlacerClear] run function game:forcestop
-schedule function rr_normal:disable 1t append
 scoreboard players add @e[type=armor_stand,tag=Selection,limit=1] refreshsigns 1
 ```
 
 In essence, this function:
+- disables this gamemode.
 - instructs the game to forcibly clear the arena the next time settings are confirmed if this gamemode was the last one played.
 - runs this gamemode's `areaclear` function if it was the last one played.
 - makes the game forget this gamemode was the last one played. 
-- kills this gamemode armor stand.
+- kills this gamemode's armor stand.
 - refreshes the IDs of every other gamemode armor stand so that there is no gap in IDs.
 - removes any other scoreboards/bossbars/entities/etc. the gamemode may use (not applicable here).
-- announces successful uninstallation and prompts the player to disable the datapack.
 - forcibly stops the game to ensure nothing breaks as a result of gamemode uninstallation.
-- disables this gamemode after 1 tick of delay to ensure the game is properly ended.
+- announces successful uninstallation and prompts the player to disable the datapack.
 - refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that this gamemode is no longer installed.
 
 Generally speaking, you should never have to run this kind of function (and especially *never* run it for **Normal Mode**!) unless something goes absolutely horribly wrong. You can run it at any point in the game and expect it to cleanly uninstall the gamemode and all of its assets.
