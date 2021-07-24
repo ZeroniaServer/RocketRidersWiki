@@ -7,7 +7,7 @@ nav_order: 3
 **The `rocketriders` Datapack**
 ---
 
-The `rocketriders` datapack is the main brains of the game! (Besides the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, of course.) You can find it **[here](https://github.com/ZeroniaServer/RocketRiders/tree/master/rocketriders/data)** on the **Rocket Riders codebase**.
+The `rocketriders` datapack is the main brain of the game! (Besides the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, of course.) You can find it **[here](https://github.com/ZeroniaServer/RocketRiders/tree/master/rocketriders/data)** on the **Rocket Riders codebase**.
 
 A quick glance at the datapack will reveal that it is a massive, sprawling mess. (Well, so was the development of the game... art imitates life, or something like that.)
 
