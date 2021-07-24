@@ -112,7 +112,7 @@ execute unless entity @e[type=marker,tag=PlacerClear] run function game:forcesto
 
 In essence, this function:
 - summons the gamemode armor stand.
-- adds any necessary scoreboard objectives (not applicable here).
+- adds any necessary assets, including scoreboard objectives, tags, entities, and bossbars (not applicable here).
 - announces the gamemode has been properly installed.
 - lets the game know that the normal datapack is safely configured by adding 1 to the gamemode armor stand's `CmdData` score.
 - forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions)**).
@@ -141,7 +141,7 @@ In essence, this function:
 - makes the game forget this gamemode was the last one played. 
 - kills this gamemode's armor stand.
 - refreshes the IDs of every other gamemode armor stand so that there is no gap in IDs.
-- removes any other scoreboards/bossbars/entities/etc. the gamemode may use (not applicable here).
+- removes any other assets the gamemode may use (not applicable here).
 - forcibly stops the game to ensure nothing breaks as a result of gamemode uninstallation.
 - announces successful uninstallation and prompts the player to disable the datapack.
 - refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that this gamemode is no longer installed.
