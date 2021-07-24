@@ -11,7 +11,7 @@ When the game starts, a random "splash message" subtitle is broadcasted on scree
 
 These messages are all community-submitted and vary heavily in humor, subject matter, and relevance to the actual game as a result. Some of them probably will not even make sense unless you were "in on the joke," so to say. But they exist anyway, I suppose.
 
-If ~~you're insane~~ you're comfortable parsing through some mcfunctions, you can find a full list of every possible random splash message* (in raw JSON text format) in these three key files from the **[Rocket Riders GitHub repository](https://github.com/ZeroniaServer/RocketRiders)**:
+If ~~you're insane~~ you're comfortable parsing through some mcfunctions, you can find a full list of every possible random splash message* (in raw JSON text format) in these three key files from the **[Rocket Riders codebase](https://github.com/ZeroniaServer/RocketRiders)**:
 
 - [`game:randomsplash`](https://github.com/ZeroniaServer/RocketRiders/blob/master/rocketriders/data/game/functions/randomsplash.mcfunction)
 - [`game:winsplash`](https://github.com/ZeroniaServer/RocketRiders/blob/master/rocketriders/data/game/functions/winsplash.mcfunction)
