@@ -60,7 +60,7 @@ This function forcibly clears and resets the arena, ignoring any **[gamemode-spe
 ## `arenaclear:testvalidclear`
 
 This function attempts to run an **[arena clear](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**, but only succeeds if the following prerequisite conditions are met:
-- there is at least one **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** item enabled (see **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**)
+- there is at least one **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** item enabled (see **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**).
 - there is at least one **[gamemode datapack](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks)** installed.
 
 ---
@@ -96,4 +96,6 @@ These functions will install or uninstall the specified gamemode (ex. `rr_poweru
 ---
 ## Any others?
 
-Most other functions in the **[Rocket Riders codebase](https://github.com/ZeroniaServer/RocketRiders)** are only designed to be run by the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**. If you ever find yourself needing to run one of these (and if you know what you're doing), make sure to preface the function call with "`/execute as @e[type=armor_stand,tag=Selection] run `".
+Most other functions in the **[Rocket Riders codebase](https://github.com/ZeroniaServer/RocketRiders)** are only designed to be run by the **[Selection armor stand](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/selection_armor_stand)**, as they are not safe for normal operator use.
+
+If you ever find yourself needing to run one of these (and if you know what you're doing), make sure to preface the function call with "`/execute as @e[type=armor_stand,tag=Selection] run `".
