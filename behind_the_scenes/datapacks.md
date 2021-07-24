@@ -70,7 +70,7 @@ tag @e[type=armor_stand,tag=Selection] add vortexOverride
 tag @e[type=armor_stand,tag=Selection] add respawnFlag
 ```
 
-So, in addition to removing `switchGamemodes` and adding the `swapEnabled` tag (which, by the way, any gamemode datapack will add a tag to the **Selection armor stand** like that when it is enabled), this function also:
+So, in addition to removing `switchGamemodes` and adding the `swapEnabled` tag (which, by the way, any gamemode datapack will add a `[gamemode]Enabled` tag to the **Selection armor stand** like that when it is enabled), this function also:
 - summons a separate marker entity for the Swap timer mechanic
 - disables a couple incompatible **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)**
 - disables the usual **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)** functions so that it can run its own functions for the **[ICBM](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap#ICBM)**
@@ -78,7 +78,7 @@ So, in addition to removing `switchGamemodes` and adding the `swapEnabled` tag (
 
 That may have been a bit too in depth of an example, but the point is that the `enable` function ensures any special game configurations are set once the gamemode is enabled.
 
-Likewise, the `disable` function ensures that these game configurations are reverted to their original states (i.e. removes the tags and kills the entities, where applicable). Most importantly, it removes the `[gamemode]Enabled` tag and adding the `switchGamemodes` tag for the next gamemode to be selected. (Hopefully you don't need an example for that.)
+Likewise, the `disable` function ensures that these game configurations are reverted to their original states (i.e. removes the tags and kills the entities, where applicable). Most importantly, it removes the `[gamemode]Enabled` tag and adds the `switchGamemodes` tag for the next gamemode to be selected. (Hopefully you don't need an example for that.)
 
 ---
 ### `ifenabled` Function
