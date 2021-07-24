@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tutorial
+title: Tutorial Achievements
 parent: Miscellaneous
 nav_order: 1
 ---
-**Tutorial**
+**Tutorial Achievements**
 ---
 
 **Rocket Riders** has tutorial achievements to ease players into gameplay when they first join the world. Below is a list of these achievements and how to earn them:
