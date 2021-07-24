@@ -209,6 +209,6 @@ It really depends on who's writing them and what the gamemode needs, which is th
 
 If you made it to the end of this page and actually understood any of it, congratulations on being a complete nerd! You earned yourself an imaginary gold star.
 
-For real, though: We encourage you to look around in the **[Rocket Riders Codebase](https://github.com/ZeroniaServer/RocketRiders)** and see what you can find in all the gamemode datapacks. Who knows, maybe you could even write one of your own someday!
+For real, though: We encourage you to look around in the **[Rocket Riders codebase](https://github.com/ZeroniaServer/RocketRiders)** and see what you can find in all the gamemode datapacks. Who knows, maybe you could even write one of your own someday!
 
 *(Okay, yeah, good luck with that...)*
