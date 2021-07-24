@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operator Functions
+title: The `rocketriders` Datapack
 parent: Behind the Scenes
 nav_order: 3
 ---
