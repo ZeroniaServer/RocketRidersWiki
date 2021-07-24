@@ -116,7 +116,7 @@ In essence, this function:
 - summons the gamemode armor stand
 - announces the gamemode has been properly installed
 - lets the game know that the normal datapack is safely configured by adding 1 to the gamemode armor stand's `CmdData` score
-- forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions))
+- forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions)**)
 
 Generally speaking, you will only ever have to run this kind of a function if there are new gamemodes released as additional downloadable content for existing **Rocket Riders** worlds (*hint hint*). Before that, of course, you will need to run `/datapack enable` for whichever datapack the gamemode corresponds to.
 
