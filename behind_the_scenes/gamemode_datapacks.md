@@ -115,7 +115,7 @@ In essence, this function:
 - adds any necessary assets, including scoreboard objectives, tags, entities, and bossbars (not applicable here).
 - announces the gamemode has been properly installed.
 - lets the game know that the normal datapack is safely configured by adding 1 to the gamemode armor stand's `CmdData` score.
-- forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions)**).
+- forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[`game:forcestop`](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions#game:forcestop)**).
 
 Generally speaking, you will only ever have to run this kind of a function if there are new gamemodes released as additional downloadable content for existing **Rocket Riders** worlds (*hint hint*). Before that, of course, you will need to run `/datapack enable` for whichever datapack the gamemode corresponds to; that way, Minecraft recognizes all the functions it contains.
 
@@ -136,7 +136,7 @@ scoreboard players add @e[type=armor_stand,tag=Selection,limit=1] refreshsigns 1
 
 In essence, this function:
 - disables this gamemode.
-- instructs the game to forcibly clear the arena the next time settings are confirmed if this gamemode was the last one played.
+- instructs the game to forcibly clear the arena (see **[`arenaclear:forceareaclear`](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions#arenaclear:forceareaclear)**) the next time settings are confirmed if this gamemode was the last one played.
 - runs this gamemode's `areaclear` function if it was the last one played.
 - makes the game forget this gamemode was the last one played. 
 - kills this gamemode's armor stand.
