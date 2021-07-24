@@ -114,6 +114,7 @@ execute unless entity @e[type=marker,tag=PlacerClear] run function game:forcesto
 
 In essence, this function:
 - summons the gamemode armor stand
+- adds any necessary scoreboard objectives (not applicable here)
 - announces the gamemode has been properly installed
 - lets the game know that the normal datapack is safely configured by adding 1 to the gamemode armor stand's `CmdData` score
 - forcibly stops the game to ensure nothing breaks as a result of gamemode installation (see **[Operator Functions](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/operator_functions)**)
