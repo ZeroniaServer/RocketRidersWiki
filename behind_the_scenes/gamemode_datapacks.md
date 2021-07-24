@@ -134,9 +134,9 @@ scoreboard players add @e[type=armor_stand,tag=Selection,limit=1] refreshsigns 1
 
 In essence, this function:
 - instructs the game to forcibly clear the arena the next time settings are confirmed if this gamemode was the last one played.
-- disables the gamemode.
-- kills the gamemode armor stand.
-- refreshes the gamemode IDs of every remaining gamemode armor stand so that there is no gap in IDs
+- disables this gamemode.
+- kills this gamemode armor stand.
+- refreshes the gamemode IDs of every other gamemode armor stand so that there is no gap in IDs.
 - announces successful uninstallation and prompts the player to disable the datapack.
 - forcibly stops the game.
 - refreshes all the signs in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** now that the gamemode is no longer installed.
