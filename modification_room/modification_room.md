@@ -16,6 +16,10 @@ The **Modification Room** is a room in the Lobby that can be used to change the 
 (Note that this is currently inaccessible on the **[CubeKrowd](https://cubekrowd.net/)** version of **Rocket Riders** due to server limitations.)
 
 ---
+## Item Selection
+Through the **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)** interface, players can enable/disable individual items or entire categories of items (**[Normal Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal_missiles)**, **[Heavy Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy_missiles)**, **[Lightning Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning_missiles)**, and **[Utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilites)**). However, at least one missile or missile category must be enabled for the game to start. Also, **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)** cannot be disabled for gamemodes like **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)** and **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**.
+
+---
 ## Base Customization
 There is a variety of **base details** to select, including arches, slime platforms for height advantages, towers, 1-time TNT cannons, and more. These can be visualized in the **[Base Customizer](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/base_customizer)** and customized to your desires.
 
@@ -28,10 +32,6 @@ The **Modification Room** contains options for **[game rules](https://zeroniaser
 ---
 ## World Settings
 There are also options for **[world settings](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/world_settings)**, like daytime and whether there are **[credits armor stands](https://zeroniaserver.github.io/RocketRidersWiki/misc/credits_armor_stands)** for all 80+ playtesters of the game visible in the Lobby.
-
----
-## Item Selection
-Players can enable/disable individual items or entire categories of items (**[Normal Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal_missiles)**, **[Heavy Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy_missiles)**, **[Lightning Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning_missiles)**, and **[Utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilites)**). However, you can only start a game if at least one missile or missile category is enabled. You are also unable to disable **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)** for gamemodes like **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)** and **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**.
 
 ---
 ## Confirming Settings
