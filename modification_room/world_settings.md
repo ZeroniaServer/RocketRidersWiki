@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Base Customizer
+title: World Settings
 parent: Modification Room
 nav_order: 5
 ---
