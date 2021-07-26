@@ -95,7 +95,7 @@ From a top down view, think of the `game` folder as accounting for about three q
 
 This folder generally contains all the functions that must run every tick (as the name implies), including the aforementioned `everytick:everytick` function at the root of all code execution.
 
-This is too broad to properly narrow down, but the most concrete examples are that all the functions for **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** are located in this folder, as well as anything for handling new players/relogs, preventing fall damage, preventing item dropping, and preventing players from entering the Nether.
+This is too broad to properly narrow down, but the most concrete examples are that all the functions for **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** are located in this folder, as well as anything for handling new players/relogs, preventing fall damage, preventing item dropping, and preventing players from entering the Nether through portals.
 
 The `everytick:general_settings_and_hotfixes` function is also used for many miscellaneous purporses driving certain functionalities of the Lobby, giving necessary effects/tags/scores to players, and ensuring some utilities work as intended.
 
