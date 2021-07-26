@@ -23,7 +23,7 @@ Through the **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/
 ## Base Customization
 There is a variety of **base details** to select, including arches, slime platforms for height advantages, towers, 1-time TNT cannons, and more. These can be visualized in the **[Base Customizer](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/base_customizer)** and customized to your desires.
 
-**Portal details** can also be used to make it more difficult to explode the portals, if players are up for a challenge. For instance, the *Hole in One* detail adds an obsidian layer to the portals with 1 hole in it for TNT to go through. This is obviously the most difficult one, but options like glass covers/rims or end stone covers are also available.
+**[Portal details](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/base_customizer#portal-details)** can also be used to make it more difficult to explode the portals, if players are up for a challenge. For instance, the *Hole in One* detail adds an obsidian layer to the portals with 1 hole in it for TNT to go through. This is obviously the most difficult one, but options like glass covers/rims or end stone covers are also available.
 
 ---
 ## Game Rules
