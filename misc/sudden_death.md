@@ -7,10 +7,10 @@ nav_order: 8
 **Sudden Death**
 ---
 
-When the **[Tie/Sudden Death](https://zeroniaserver.github.io/modification_room/game_rules#tiesudden-death)** game rule is enabled, players may tie the game if both teams explode their enemies' nether portals within 4 seconds of each other. This initiates a **Sudden Death** period, in which the following occurs:
+When the **[Tie/Sudden Death](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules#tiesudden-death)** game rule is enabled, players may tie the game if both teams explode their enemies' nether portals within 4 seconds of each other. This initiates a **Sudden Death** period, in which the following occurs:
 
 - The portals are relit, but the bases keep the same level of damage.
-- Items are given twice as fast as before (if the **[Minute Mix](https://zeroniaserver.github.io/modification_room/modifiers#minute-mix)** modifier is not enabled).
+- Items are given twice as fast as before (if the **[Minute Mix](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#minute-mix)** modifier is not enabled).
 - A red tint is applied to the screen.
 - Players start with a fresh inventory.
 - All previous TNT entities are killed.
