@@ -17,4 +17,4 @@ When the **[Tie/Sudden Death](https://zeroniaserver.github.io/RocketRidersWiki/m
 
 The outcome of **Sudden Death** determines the actual "winner," so to say, in tie scenarios. However, in the event of multiple successive ties, multiple **Sudden Death** periods may occur, with the effects of each stacking (i.e. item delay is continually halved until it reaches a minimum of 1 tick).
 
-Since **Sudden Death** determines the true outcome of the game, some **[achievements](https://zeroniaserver.github.io/RocketRidersWiki/achievements)** are only rewarded once the 5-second tie window has passed (although, the **Premature Celebration** achievement is rewarded for the team that initially won before a tie!).
+Since **Sudden Death** determines the true outcome of the game, some **[achievements](https://zeroniaserver.github.io/RocketRidersWiki/achievements)** are only rewarded once the 4-second tie window has passed (although, the **Premature Celebration** achievement is rewarded for the team that initially won before a tie!).
