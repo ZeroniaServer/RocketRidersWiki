@@ -6,7 +6,7 @@ has_toc: false
 permalink: /behind_the_scenes/
 nav_order: 7
 ---
-# Behind the Scenes
+# **Behind the Scenes**
 ---
 
 So, you want to learn a little more about how **Rocket Riders** actually works? Or, do you just want to fool around with things in your own world? Well, buckle up, 'cause it's about to get... interesting.

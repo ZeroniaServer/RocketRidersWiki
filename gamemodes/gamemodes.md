@@ -6,7 +6,7 @@ has_toc: false
 permalink: /gamemodes/
 nav_order: 3
 ---
-# Gamemodes
+# **Gamemodes**
 ---
 
 **Rocket Riders** currently has **5 new gamemodes** (in addition to the standard **[Normal Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/normal)**) which bring new gameplay objectives and challenges to the table so the game always stays exciting!

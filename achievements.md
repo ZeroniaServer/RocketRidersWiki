@@ -4,7 +4,7 @@ title: Achievements
 hyperlink: /achievements/
 nav_order: 5
 ---
-# Achievements
+# **Achievements**
 ---
 
 **Rocket Riders** has **38* custom achievements** to earn as you play!

@@ -6,7 +6,7 @@ has_toc: false
 permalink: /misc/
 nav_order: 6
 ---
-# Miscellaneous
+# **Miscellaneous**
 ---
 
 Minor elements of the game that deserve a little attention. Click on the links below to learn more about each of these things:

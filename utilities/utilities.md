@@ -6,7 +6,7 @@ has_toc: false
 nav_order: 2
 permalink: /utilities/
 ---
-# Utilities
+# **Utilities**
 ---
 
 In addition to the **Shield** and **Fireball** from *Missile Wars*, **Rocket Riders** features **many new utility items** that interact with each other in interesting ways. These allow for complex and unique strategies when it comes to defensive gameplay.

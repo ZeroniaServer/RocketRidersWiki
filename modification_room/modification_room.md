@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 permalink: /modification_room/
 ---
-# Modification Room
+# **Modification Room**
 --- 
 
 The **Modification Room** is a room in the Lobby that can be used to change the gameplay of **Rocket Riders** to your likings (and, perhaps, your wildest dreams)!
