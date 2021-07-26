@@ -7,7 +7,7 @@ nav_order: 8
 **Sudden Death**
 ---
 
-When the *Tying/Sudden Death* **[game rule](https://zeroniaserver.github.io/modification_room/game_rules)** is enabled, players may tie the game if both teams explode their enemies' nether portals within 5 seconds of each other. This initiates a **Sudden Death** period, in which the following occurs:
+When the *Tying/Sudden Death* **[game rule](https://zeroniaserver.github.io/modification_room/game_rules)** is enabled, players may tie the game if both teams explode their enemies' nether portals within 4 seconds of each other. This initiates a **Sudden Death** period, in which the following occurs:
 
 - The portals are relit, but the bases keep the same level of damage.
 - Items are given twice as fast as before (if the **[Minute Mix](https://zeroniaserver.github.io/modification_room/modifiers#minute-mix)** modifier is not enabled).
