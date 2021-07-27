@@ -11,6 +11,7 @@ nav_order: 4
 
 During the game, players may receive enderman spawn eggs that they can use to deploy Obsidian Shields. When placed, these summon a punchable dragon fireball, and when punched, the dragon fireball places an Obsidian Shield wherever it lands after a maximum 1.5 seconds of flight. In this way, their deployment is similar to a regular **[Fireball](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)**, but their functionality is similar to a regular **[Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
 
+---
 ### Use Cases
 
 Much of the same uses of regular **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield#use-cases)** also apply to Obsidian Shields, so this page will not cover those. However, seeing as Obsidian Shields are deployed differently and consist primarily of a blast-resistant, immovable material, they also have notable differences in their use cases as described below.
@@ -21,6 +22,7 @@ Obsidian Shields may also be used to provide cover/protection or deter enemies c
 
 Obsidian Shields <ins>**cannot**</ins> be used to break portals.
 
+---
 ### Gamemode-Specific Differences
 
 There are no differences in the behavior of Obsidian Shields in the current selection of **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** available in **Rocket Riders**.
