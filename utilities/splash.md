@@ -33,6 +33,8 @@ Here's **Rocket Riders** co-creator Evtema3's **TOP TEN REASONS WHY SPLASHES ARE
 
 In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, players may obtain a **[Lava Splash](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#lava-splash)**, which functions exactly the same as a normal **Splash** but places a 2x2 stream of lava wherever it lands instead. The water and lava may be combined to form cobblestone, smooth stone, and even obsidian, which is all intended and all cleaned up during **[arena clears](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**.
 
+Also in **Powerups Mode**, players may receive **[Tridents](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#trident)**, which automatically gain the Riptide enchantment when the player is inside a water stream created by a **Splash**.
+
 The **Splash** is not obtainable in **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**.
 
 When the **[Splash Streams](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#splash-streams)** modifier is enabled, **Splashes** (including the **[Lava Splash](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#lava-splash)**) will place down permanent streams instead of temporary streams.
