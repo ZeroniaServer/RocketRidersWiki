@@ -20,7 +20,9 @@ They may be launched at other blocks in a **[missile](https://zeroniaserver.gith
 
 They can also be launched at **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** to either "fire-poof" the **Canopy** if they hit the log or mow through and set aflame any leaves they pass through.
 
-A quite niche final use is redirecting or launching other **Fireballs** (or even stationary **[Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)** fireballs) they come into contact with.
+They can be launched at the glass pane in the center of an **[Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)**. If the glass pane is destroyed, this weakens the **Obsidian Shield** and brings it closer to fully breaking.
+
+A quite niche final use is redirecting or launching other **Fireballs** (or even stationary **[Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)** dragon fireballs) they come into contact with.
 
 Note that they cannot be launched directly at exposed portals to end the game (in most **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)**, anyway) unless the *Snipe Portals* **[game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules)** is enabled. They also do not interact with **[Vortices](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**.
 
