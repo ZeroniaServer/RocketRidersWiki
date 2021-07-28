@@ -52,9 +52,20 @@ These functions disable or enable the Yellow team join pad.
 This function enables all team join pads (including Spectators).
 
 ---
-## `arenaclear:forceareaclear`
+## `items:missile/[category]/give[name]`
 
-This function forcibly clears and resets the arena, ignoring any **[gamemode-specific arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks#arenaclear-folder)** or prerequisite checks that would otherwise occur during a normal **[arena clear](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**. It is not recommended to use this in case prerequisite conditions for arena clearing are not met (see below).
+Functions of this format give the player a **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** of the specified category and name, colored after their team. This can only be run when the player is on Blue or Yellow team.
+
+`[category]` may be `normal`, `heavy`, `lightning`, or `special`, and `[name]` is an abbreviated name of the missile in that category.
+
+---
+## `items:util/give[name]`
+
+Functions of this format give the player a **[utility](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** of the specfied name, colored after their team. This can only be run when the player is on Blue or Yellow team.
+
+Note that other gamemodes may add their own **[`items` folder](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks#items-folder)** with custom utility items and their own respective give functions. The format for these would generally be `rr_[gamemode]:items/util/give[name]`.
+
+For **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)** specifically, the `util` folder is instead named either `tipped_arrow` for all tipped arrows or `powerup` for all non-tipped arrow powerup items. For instance, `function rr_powerups:items/powerup/givetotem` gives the player a **Totem of Undying**.
 
 ---
 ## `arenaclear:testvalidclear`
@@ -63,6 +74,11 @@ This function attempts to run an **[arena clear](https://zeroniaserver.github.io
 - there is at least one **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** item enabled (see **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**).
 - there is at least one **[gamemode datapack](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks)** installed/enabled.
 - the game has ended (recommended to run [`game:forcestop`](#game:forcestop) first).
+
+---
+## `arenaclear:forceareaclear`
+
+This function forcibly clears and resets the arena, ignoring any **[gamemode-specific arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks#arenaclear-folder)** or prerequisite checks that would otherwise occur during a normal **[arena clear](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**. It is <ins>not recommended</ins> to use this in case prerequisite conditions for arena clearing are not met (see above).
 
 ---
 ## `achievements:reset`
