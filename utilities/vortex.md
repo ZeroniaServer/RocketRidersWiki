@@ -33,7 +33,7 @@ A **Vortex** may <ins>**not**</ins> be thrown near your own portal to lose the g
 ---
 ### Gamemode Specific Behavior
 
-In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, players may obtain **[Tridents](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#trident)** that can also be used to shoot a **Vortex**.
+In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, players may obtain **[Tridents](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#trident)** that can also be used to shoot a **Vortex**. Note that this kills the **Trident** in the process.
 
 In **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**, since only Blue team is joinable and friendly fire is enabled, a **Vortex** may be used against players on the same team. It behaves practically identically to a Yellow **Vortex** (apart from the particles) in this case.
 
