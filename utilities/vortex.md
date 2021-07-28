@@ -7,7 +7,7 @@ nav_order: 5
 **Vortex**
 ---
 
-The **Vortex** is a floating landmine of that detects and drifts towards enemy players before exploding in close proximity. It also explodes whenever it is shot by an **[arrow](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrow)** or **[Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)**, whenever a nearby **Vortex** explodes (allowing for chain reactions), whenever any other explosion occurs in a 5 block radius, or whenever it is occluded by a block (excluding invisible/transparent blocks like `air` as well as `nether_portal`).
+The **Vortex** is a floating landmine that detects and drifts towards enemy players before exploding in close proximity. It also explodes whenever it is shot by an **[arrow](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrow)** or **[Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)**, whenever a nearby **Vortex** explodes (allowing for chain reactions), whenever any other explosion occurs in a 5 block radius, or whenever it is occluded by a block (excluding invisible/transparent blocks like `air` as well as `nether_portal`).
 
 It is deployed by throwing an egg, which creates a **Vortex** after 1 second of flight. Once thrown, the **Vortex** emits particles of the respective team's color and the ender pearl icon in the center spins around.
 
