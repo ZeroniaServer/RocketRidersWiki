@@ -45,7 +45,7 @@ execute as @e[type=armor_stand,tag=Selection,tag=normalLast] run function rr_nor
 
 Okay, that's a lot. The basic gist: each gamemode armor stand has its own ID which gets assigned based on how many gamemode armor stands are present in the world. This is used to switch between gamemodes in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**.
 
-When **Normal Mode** is selected, it runs the function `rr_normal:enable` once, and after that, it runs the function `rr_normal:ifenabled` every tick for which it is enabled. Then, if it was the previously selected gamemode (for the purposes of **[arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**, generally speaking), it runs the function `rr_normal:iflast`.
+When **[Normal Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/normal)** is selected, it runs the function `rr_normal:enable` once, and after that, it runs the function `rr_normal:ifenabled` every tick for which it is enabled. Then, if it was the previously selected gamemode (for the purposes of **[arena clearing](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**, generally speaking), it runs the function `rr_normal:iflast`.
 
 So what do those functions do exactly? Let's go one by one.
 
