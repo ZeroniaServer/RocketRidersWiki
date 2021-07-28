@@ -55,8 +55,3 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
-
-# may break everything let's find out yahoo
-kramdown:
-  syntax_highlighter_opts:
-    disable : true

@@ -35,7 +35,7 @@ First off, there is a `#minecraft:tick` function tag defined with the following 
 ```
 
 `rr_normal:everytick` is a function that runs every tick the gamemode datapack exists for. Let's take a look at that:
-```mcfunction
+```
 execute as @e[type=armor_stand,tag=rr_normal] run function gamemodes:updateid
 execute if score @e[type=armor_stand,tag=Selection,tag=!normalEnabled,tag=switchGamemodes,limit=1] SetGamemode = @e[type=armor_stand,tag=rr_normal,limit=1] gamemodeID run function rr_normal:enable
 execute if score @e[type=armor_stand,tag=Selection,tag=normalEnabled,tag=switchGamemodes,limit=1] SetGamemode = @e[type=armor_stand,tag=rr_normal,limit=1] gamemodeID run tag @e[type=armor_stand,tag=Selection,limit=1] remove switchGamemodes
