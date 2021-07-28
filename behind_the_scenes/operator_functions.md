@@ -65,7 +65,9 @@ Functions of this format give the player a **[utility](https://zeroniaserver.git
 
 Note that other gamemodes may add their own **[`items` folder](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks#items-folder)** with custom utility items and their own respective give functions. The format for these would generally be `rr_[gamemode]:items/util/give[name]`.
 
-For **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)** specifically, the `util` folder is instead named either `tipped_arrow` for all tipped arrows or `powerup` for all non-tipped arrow powerup items. For instance, `function rr_powerups:items/powerup/givetotem` gives the player a **Totem of Undying**.
+For **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)** specifically, the `util` folder is instead named either `tipped_arrow` for all tipped arrows or `powerup` for all non-tipped arrow powerup items.
+
+For instance, `function rr_powerups:items/powerup/givetotem` gives the player a **Totem of Undying**.
 
 ---
 ## `arenaclear:testvalidclear`
