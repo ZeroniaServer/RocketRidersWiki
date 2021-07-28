@@ -37,4 +37,4 @@ Also in **Powerups Mode**, players may receive **[Tridents](https://zeroniaserve
 
 The **Splash** is not obtainable in **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**.
 
-When the **[Splash Streams](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#splash-streams)** modifier is enabled, **Splashes** (including the **[Lava Splash](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#lava-splash)**) will place down permanent streams instead of temporary streams.
+When the **[Splash Streams modifier](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#splash-streams)** is enabled, **Splashes** (including the **[Lava Splash](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#lava-splash)**) will place down permanent rather than temporary streams.

@@ -24,9 +24,11 @@ They can be launched at the glass pane in the center of an **[Obsidian Shield](h
 
 A quite niche final use is redirecting or launching other **Fireballs** (or even stationary **[Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)** dragon fireballs) they come into contact with.
 
-Note that they cannot be launched directly at exposed portals to end the game (in most **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)**, anyway) unless the *Snipe Portals* **[game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules)** is enabled. They also do not interact with **[Vortices](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**.
+Note that they cannot be launched directly at exposed portals to end the game (in most **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)**, anyway) unless the **[Snipe Portals game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules#snipe-portals)** is enabled. They also do not interact with **[Vortices](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**.
 
 ---
 ### Gamemode Specific Behavior
 
 In **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, normal Fireballs become **Cluster Fireballs**, which create 4 duplicate Fireballs that travel in the same direction as the original Fireball once they are punched.
+
+In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **Fireballs** may be used to set off **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform)**.
