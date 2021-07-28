@@ -62,6 +62,7 @@ This function forcibly clears and resets the arena, ignoring any **[gamemode-spe
 This function attempts to run an **[arena clear](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**, but only succeeds if the following prerequisite conditions are met:
 - there is at least one **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** item enabled (see **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**).
 - there is at least one **[gamemode datapack](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/gamemode_datapacks)** installed.
+- the game has ended.
 
 ---
 ## `achievements:reset`
