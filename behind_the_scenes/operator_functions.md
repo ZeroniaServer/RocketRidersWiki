@@ -56,7 +56,7 @@ This function enables all team join pads (including Spectators).
 
 Functions of this format give the player a **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** of the specified category and name, colored after their team. This can only be run when the player is on Blue or Yellow team.
 
-`[category]` may be `normal`, `heavy`, `lightning`, or `special`, and `[name]` is an abbreviated name of the missile in that category.
+`[category]` may be `normal`, `heavy`, `lightning`, or `special`, and `[name]` is an abbreviated name of the missile in that category. For instance, `items:missile/heavy/giveaux` gives an **[Auxiliary](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/auxiliary)**.
 
 ---
 ## `items:util/give[name]`
@@ -67,7 +67,7 @@ Note that other gamemodes may add their own **[`items` folder](https://zeroniase
 
 For **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)** specifically, the `util` folder is instead named either `tipped_arrow` for all tipped arrows or `powerup` for all non-tipped arrow powerup items.
 
-For instance, `function rr_powerups:items/powerup/givetotem` gives the player a **Totem of Undying**.
+For instance, `function rr_powerups:items/powerup/givetotem` gives the player a **[Totem of Undying](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#totem-of-undying)**.
 
 ---
 ## `arenaclear:testvalidclear`
