@@ -25,4 +25,4 @@ Obsidian Shields <ins>**cannot**</ins> be used to break portals.
 ---
 ### Gamemode-Specific Differences
 
-There are no differences in the behavior of **Obsidian Shields** in the current selection of **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** available in **Rocket Riders**.
+In **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)**, **Obsidian Shields** may not be deployed in a close proximity of the flag poles. This prevents overpowered defensive strategies and never-ending games.

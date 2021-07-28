@@ -9,9 +9,9 @@ nav_order: 8
 
 The **Nova Rocket** is given to players as a loaded firework crossbow. When a player shoots the firework out, the crossbow breaks and the firework flies out in a straight line, leaving a trail of particles colored after the the player's team. It will then explode whatever it hits first or wherever it ends up after a maximum 1.5 seconds of flight.
 
-In addition, the **Nova Rocket** explosion launches any nearby enemy players into the air (via 4 ticks of Levitation 60), dealing additional firework damage to those players at their peak height (15 ticks after they are first hit).
+In addition, the **Nova Rocket** explosion launches any nearby enemy players into the air (via 4 ticks of Levitation 60), dealing additional firework damage to those players at their peak height (15 ticks after they are first hit). If the resultant explosion kills any players, the player who shot the **Nova Rocket** is credited for the kill.
 
-When two enemy **Nova Rocket** fireworks collide during flight, a green particle burst known as a **Nova Rocket Collision** occurs, dealing increased explosion damage at the point of collision.
+When two enemy **Nova Rocket** fireworks collide during flight, a green particle burst known as a **Nova Rocket Collision** occurs, dealing increased explosion damage at the point of collision. In this circumstance, no players are credited for the kill.
 
 ---
 ### Use Cases
