@@ -18,7 +18,7 @@ Their most destructive use is being launched directly at TNT (as well as **[End 
 
 They may be launched at other blocks in a **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)**, such as the pistons/slime blocks in the engine, to disable that missile. Moreover, they can be launched at a base to deal slight damage to the base.
 
-They can also be launched at **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** to either "fire-poof" the **Canopy** if they hit the log or mow through and set aflame any leaves they pass through.
+They can also be launched at **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** to "fire-poof" the **Canopy** when they hit the log and set aflame any leaves they pass through. Be careful using **Fireballs** on top of **Canopies** also; you may just set your own on fire!
 
 They can be launched at the glass pane in the center of an **[Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)**. If the glass pane is destroyed, this weakens the **Obsidian Shield** and brings it closer to fully breaking.
 
