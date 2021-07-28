@@ -21,9 +21,9 @@ Note that this setting is inapplicable in both **[Capture the Flag](https://zero
 ---
 ### Snipe Portals
 
-When enabled, this prevents **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** and **[Nova Rockets](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)** from being used to directly explode enemy portals. This is enabled by default.
+When enabled, this allows **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** and **[Nova Rockets](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)** to be used to directly explode enemy portals. This is disabled by default.
 
-Note that, when disabled, you still cannot use these items to explode your own portal.
+Note that, when enabled, you still cannot use these items to explode your own portal.
 
 Also note that this setting is inapplicable in both **[Capture the Flag](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)** and **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**, as neither gamemode has portals.
 
