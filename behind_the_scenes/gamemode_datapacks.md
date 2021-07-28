@@ -43,7 +43,7 @@ execute as @e[type=armor_stand,tag=Selection,tag=normalEnabled] run function rr_
 execute as @e[type=armor_stand,tag=Selection,tag=normalLast] run function rr_normal:iflast
 ```
 
-That might seem like a lot. (If you're thinking that already, you might want to brace your eyes for the rest of this section...)
+Okay, that might seem like a lot. (Although, if you're thinking that already, you might want to brace your eyes for the rest of this section...)
 
 The basic gist, though: each gamemode armor stand has its own ID which gets assigned based on how many gamemode armor stands are present in the world. This is used to switch between gamemodes in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**.
 
