@@ -22,7 +22,7 @@ Players can also pick up **arrows** shot by themselves/other players from the gr
 - enemy players, to deal direct damage plus additional fire damage.
 - TNT (as well as **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform)** and the TNT Minecarts in the **[Duplex](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)**), to ignite **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** and cause explosions.
 - a **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**, to instantly explode it (also killing the arrow in the process).
-- **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)**, either at the log to "fire-poof" them or at the leaves to set them on fire.
+- **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)**, either at the log to "fire-poof" them or at the leaves to set them on fire (only works if the arrow is on fire).
 - **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)**, to launch or deflect them.
 
 ---

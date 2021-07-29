@@ -22,4 +22,6 @@ Below is a list of every utility in the general game*. Click on each one to lear
 - **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)**  
 - **[Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)**
 
+Utilities cannot be used outside of the normal playing area (in the void, near the roof, outside the world border).
+
 _*Note that there are other exclusive utilities in certain **[gamemodes.](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)**_
