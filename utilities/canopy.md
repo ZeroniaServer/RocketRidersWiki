@@ -48,6 +48,8 @@ Throwing the **Canopy** off-sides (adjacent to the bases) puts players in a posi
 
 Any benefits that the **Canopy** affords in this manner do come with significant drawbacks, however, due to the sheer number of counters that other **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)** can have against them (the **Nova Rocket** chiefly among them).
 
+**Canopies** <ins>**cannot**</ins> be used to break portals. They also cannot be spawned in a 7-block radius of either team's spawnpoint.
+
 ---
 ### Gamemode Specific Behaviors
 
