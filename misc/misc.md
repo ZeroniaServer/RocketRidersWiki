@@ -4,7 +4,7 @@ title: Miscellaneous
 has_children: true
 has_toc: false
 permalink: /misc/
-nav_order: 6
+nav_order: 7
 ---
 # **Miscellaneous**
 ---
