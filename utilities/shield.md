@@ -33,4 +33,4 @@ Through a technique known as "Shield-stacking," several **Shields** can be throw
 ---
 ### Gamemode Specific Behavior
 
-In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **Shield** snowball projectiles can be used to deal knockback to **[Bees](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#stinging-shield)** and set off **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform)**.
+In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **Shield** snowball projectiles can be used to deal knockback to **[Bees](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#stinging-shield)** and set off **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#objective)**.

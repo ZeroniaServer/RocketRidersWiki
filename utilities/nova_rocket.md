@@ -31,6 +31,6 @@ Note that they cannot be launched directly at exposed portals to end the game (i
 
 In **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**, players may use **Nova Rockets** defensively against their teammates as friendly fire is enabled and only Blue team is joinable. **Nova Rocket Collisions** are impossible in this circumstance, but players may be launched or may even launch themselves with **Nova Rockets**.
 
-In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **Nova Rockets** can be used to set off **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#crystal-platform)**.
+In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **Nova Rockets** can be used to set off **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#objective)**.
 
 The **Nova Rocket** is not obtainable in **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**.
