@@ -12,7 +12,9 @@ nav_order: 0
 
 This is a comprehensive resource for official information about everything **Rocket Riders** has to offer.
 
-Click on individual pages/categories on the left to learn more about each part of the game!  
+Click on individual pages/categories on the left to learn more about each part of the game!
+
+🚧 *This wiki is actively under construction! Some pages may not be complete. Apologies in advance!* 🚧
 
 ---
 
