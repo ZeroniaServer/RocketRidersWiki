@@ -31,12 +31,16 @@ The other team may counter this in three ways:
 ---
 ## Powerups Items
 
-There is a host of **Powerups** that players may obtain while in control of the **Powerup Platform**. Here is a brief description of each of them:
+There is a host of **Powerups** that players may obtain while in control of the **Powerup Platform**. Note that none of these items are configurable in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**.
 
+Here is a brief description of each of them:
+
+---
 ### **Special Missiles**
 
-Players may obtain all four missiles in the **[Special Missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)** category from the **Powerup Platform**.
+Players may obtain all four missiles in the **[Special Missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)** category from the **Powerup Platform**. These are exclusively available in **Powerups Mode** and **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**.
 
+---
 ### **Tipped Arrows**
 
 Players may obtain arrows tipped with four different potion effects:
@@ -47,18 +51,21 @@ Players may obtain arrows tipped with four different potion effects:
 
 Unless they pick up additional arrows or the **[Item Stacking game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules#item-stacking)** is enabled, players may only have 4 **Tipped Arrows** of any kind at a time.
 
+---
 ### **Stinging Shield**
 
 Players may obtain honey bottles that they can drink to launch out a tiny honey block that eventually turns into a **Stinging Shield**.
 
 The **Stinging Shield** is made of beehives with three bees each inside and has an unstable TNT in the middle. When broken or shot, the TNT explodes the bee hives and releases bees that are hostile to the opposite team.
 
+---
 ### **Lava Splash**
 
 Players may obtain **Lava Splash** bottles that work very similarly to normal **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** bottles, except they place lava instead. The lava may be used to melt any players it comes into contact with.
 
 Lava may be used in combination with water from normal **Splashes** to form cobblestone, stone, or even obsidian (this is vanilla behavior). This is all eventually removed when the **[arena clears](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**.
 
+---
 ### **Trident**
 
 Players may obtain **Tridents** from the **Powerup Platform**, which are useful for both direct and ranged combat like the **Shooting Saber**. The **Trident** always has Impaling II and Channelling I (although the latter doesn't really do anything...).
@@ -69,22 +76,26 @@ Alternatively, if the player is standing in water, the **Trident** automatically
 
 A **Trident** may also be used to destroy a **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**.
 
+---
 ### **Elytra**
 
 Players may obtain low-durability **Elytra** which replaces their chestplate slot (normally occupied by a leather tunic). This makes the player more susceptible to damage but also allows increased travel ability... until, of course, the **Elytra** breaks because it only has 3 durability.
 
 The **Elytra** does <ins>NOT</ins> come with fireworks, so it must be used sparingly and strategically.
 
+---
 ### **Totem of Undying**
 
 Players may obtain **Totems of Undying** from the **Powerups Platform**. The totem saves them from all forms of death except falling in the void while held.
 
+---
 ### **Infinity Saber**
 
 Players may obtain temporary **Infinity Sabers** from the **Powerups Platform**. Once received, their normal **Shooting Saber** has Infinity for 30 seconds, allowing them to shoot infinite arrows at their opponents.
 
 If players do not have arrows at the moment when they receive the **Infinity Saber** , then they get one free arrow to use. Also note that the Infinity enchantment does not apply to **[Tipped Arrows](#tipped-arrows)** (this is vanilla behavior).
 
+---
 ### **Slap Fish**
 
 Players may obtain temporary **Slap Fishes** (cooked cod with Knockback 3) from the **Powerups Platform**. If they slap an enemy with their **Slap Fish**, the **Slap Fish** is consumed from their inventory and a fish flop sound plays while the enemy goes flying away from all the knockback.

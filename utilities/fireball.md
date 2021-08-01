@@ -29,6 +29,6 @@ Note that they cannot be launched directly at exposed portals to end the game (i
 ---
 ### Gamemode Specific Behavior
 
-In **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, normal Fireballs become **Cluster Fireballs**, which create 4 duplicate Fireballs that travel in the same direction as the original Fireball once they are punched.
+In **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, normal Fireballs become **[Cluster Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap#cluster-fireball)**, which create 4 duplicate Fireballs that travel in the same direction as the original Fireball once they are punched.
 
 In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **Fireballs** may be used to set off **[End Crystals](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#objective)**.

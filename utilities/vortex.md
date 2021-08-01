@@ -37,6 +37,6 @@ In **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/
 
 In **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**, since only Blue team is joinable and friendly fire is enabled, a **Vortex** may be used against players on the same team. It behaves practically identically to a Yellow **Vortex** (apart from the particles) in this case.
 
-In **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, the default **Vortex** behavior is not present, and eggs are instead used as **ICBMs** (a gamemode-exclusive utility item).
+In **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, the default **Vortex** behavior is not present, and eggs are instead used as **[ICBMs](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap#icbm)** (a gamemode-exclusive utility item).
 
 In **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)**, a **Vortex** may not spawn in a close proximity of the flag poles. This prevents overpowered defensive strategies and never-ending games.
