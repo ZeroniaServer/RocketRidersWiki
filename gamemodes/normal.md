@@ -23,7 +23,7 @@ Players must spawn and ride **[missiles](https://zeroniaserver.github.io/RocketR
 
 ---
 ## Items
-The main weapon in this gamemode is the **Shooting Saber** (bow with Sharpness V and Flame). Players also have leather armor colored respectively after their team.
+The main weapon in this gamemode is the **Shooting Saber** (bow with Sharpness V and Flame). Players also have leather armor colored respectively after their team. Unless otherwise specified, this will always be the case for every **[gamemode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)**.
 
 The only obtainable items in **Normal Mode** are **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (with the exception of **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)**) and **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)**.
 

@@ -17,15 +17,15 @@ The teams in **Swap Mode** are Yellow and Blue, but they also vary between Light
 ## Objective
 The objective of **Swap Mode** is the same as **[Normal Mode's](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/normal#objective)**: break the enemy portals to win.
 
-However, there is a new dynamic of Light side versus Dark side, and the teams swap 'sides' (only visually, not spacially) between Light and Dark every minute. Base materials and armor colors change accordingly (i.e., there are different base and armor colors for Dark Yellow, Light Blue, Light Yellow, and Dark Blue).
+However, there is a new dynamic of Light side versus Dark side, and the teams swap 'sides' (only visually, not spacially) between Light and Dark every minute (although, during **[Sudden Death periods](https://zeroniaserver.github.io/RocketRidersWiki/misc/sudden_death)**, 20-second "Quick Swaps" occur instead).
+
+During these swaps, base materials and armor colors change accordingly (i.e., there are different base and armor colors for Dark Yellow, Light Blue, Light Yellow, and Dark Blue). The back layer of the base will always be concrete, colored black or white depending on whether the base is on the Light or Dark side.
 
 ---
 ## Items
-Unlike any other **[gamemode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** in **Rocket Riders**, in **Swap Mode**, players on opposing teams do not receive the same items at the same time (except for arrows, which both teams may receive). Rather, they get the same *kinds* of items: both teams will receive a missile or a utility at the same time, although those missiles and utilities may vary.
+Unlike any other **[gamemode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** in **Rocket Riders**, in **Swap Mode**, players on opposing teams do not receive the same items at the same time (except for arrows, which both teams may receive). Rather, they get the same *kinds* of items: both teams will receive a missile or a utility at the same time, although those missiles and utilities may vary by the side the teams are on.
 
-Note that the items each team receives in **Swap Mode** are not configurable in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**.
-
-Players on the Light side will receive Lightning missiles and punchable utilities. Specifically:
+Players on the Light side will receive fast missiles and punchable utilities. Specifically:
 - The **[Broadsword](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/broadsword)**
 - The **[Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane)**
 - The **[Hypersonic](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/hypersonic)**
@@ -33,7 +33,7 @@ Players on the Light side will receive Lightning missiles and punchable utilitie
 - **[Cluster Fireballs](#cluster-fireball)**
 - **[Obsidian Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)**
 
-Players on the Dark side will recieve Heavy missiles and throwable utilities. Specifically:
+Players on the Dark side will recieve powerful missiles and throwable utilities. Specifically:
 - The **[Auxiliary](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/auxiliary)**
 - The **[Bullet](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/bullet)**
 - The **[Duplex](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special/duplex)**
@@ -41,7 +41,7 @@ Players on the Dark side will recieve Heavy missiles and throwable utilities. Sp
 - **[ICBMs](#icbm)**
 - **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**
 
-**Swap Mode** adds **Cluster Fireballs** and **ICBMs** as gamemode-exclusive utilities which replace the functionality of normal **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** and the **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**. These are described in more detail below:
+**Swap Mode** adds **Cluster Fireballs** and **ICBMs** as gamemode-exclusive utilities, which replace the functionality of normal **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** and the **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**. These are described in more detail below:
 
 ---
 ### **Cluster Fireball**
@@ -56,3 +56,6 @@ The explosion consists of 8 TNT at slight offsets, dealing significant damage an
 Unlike other utilities, the **ICBM** may always be thrown at the enemy portals directly to end the game. However, they may <ins>**NOT**</ins> be used to destroy the team's own portals.
 
 **ICBM** projectiles may also be thrown in such a way to propel each other and gain greater range. Therefore, it is theoretically possible to end the game from the player's own base without spawning any missiles by simply chaining several **ICBMs** and launching them across the map.
+
+---
+Note that the items each team receives in **Swap Mode** are not configurable in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)**.
