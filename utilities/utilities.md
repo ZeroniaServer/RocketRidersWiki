@@ -10,7 +10,7 @@ permalink: /utilities/
 ---
 
 <div id="art_image">
-    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/utilities.png" width="250"  />
+    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/utilities.png" width="230"  />
 </div>
 
 In addition to the **Shield**, **Fireball**, and **arrows** from the original *Missile Wars*, **Rocket Riders** features many new **utility items**.
@@ -19,7 +19,6 @@ These allow for complex and unique strategies when it comes to defensive gamepla
 
 Each utility item interacts with the world and the players around it in a different way; mastering them all is key to becoming a good **Rocket Riders** player.
 
-<br>
 Below is a list of every utility in the general game*. Click on each one to learn more about it!
 
 - **[Arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)**
