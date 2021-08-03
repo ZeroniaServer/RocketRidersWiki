@@ -7,6 +7,10 @@ nav_order: 6
 **Parkour**
 ---
 
+<div id="art_image">
+    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/parkour.png" width="250"  />
+</div>
+
 **Rocket Riders** has its own **Parkour** course beneath the Lobby! This is only accessible via the **[Navigation Book](https://zeroniaserver.github.io/RocketRidersWiki/misc/navigation_book)**.
 
 The **Parkour** course has four different sections and a checkpoint for each one. The sections are themed by color, from green to blue to yellow to red in that order.
