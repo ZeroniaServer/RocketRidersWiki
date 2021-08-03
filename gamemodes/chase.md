@@ -5,13 +5,13 @@ parent: Gamemodes
 nav_order: 5
 ---
 **Chase Mode**
-
 ---
+
 **Chase Mode** is a free-for-all racing-style gamemode that is only available in public world downloads. In essence, it is a racing game with a highly explosive twist!
 
 ---
 ## Teams
-Unlike the other gamemodes, in Chase Mode, all players are put on the Blue team. This gamemode is a free-for-all, and friendly fire is enabled and encouraged.
+Unlike the other gamemodes, in **Chase Mode**, all players are put on the Blue team. This gamemode is a free-for-all, and friendly fire is enabled and encouraged.
 
 ---
 ## Objective
