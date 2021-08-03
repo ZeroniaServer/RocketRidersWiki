@@ -5,11 +5,6 @@ parent: Gamemodes
 nav_order: 5
 ---
 **Chase Mode**
----
-
-## 🚧 This page is a **work in progress**. 🚧
-
-Check back later to see information about Chase Mode!
 
 ---
 **Chase Mode** is a free-for-all racing-style gamemode that is only available in public world downloads. In essence, it is a racing game with a highly explosive twist!
