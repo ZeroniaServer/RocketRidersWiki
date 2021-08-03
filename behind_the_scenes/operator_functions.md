@@ -19,7 +19,7 @@ This function immediately stops the game and opens the **[Modification Room](htt
 ---
 ## `game:forcestart`
 
-This function attempts to immediately start the game. It should only be run and will only succeed once game settings have been confirmed in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**, although it has no harmful effect if run at any other time.
+This function attempts to immediately start the game. It should only be run and will only succeed once game settings have been confirmed in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)**.
 
 ---
 ## `game:forcecountdown`
