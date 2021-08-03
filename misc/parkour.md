@@ -13,7 +13,9 @@ nav_order: 6
 
 **Rocket Riders** has its own **Parkour** course beneath the Lobby! This is only accessible via the **[Navigation Book](https://zeroniaserver.github.io/RocketRidersWiki/misc/navigation_book)**.
 
-The **Parkour** course has four different sections and a checkpoint for each one. The sections are themed by color, from green to blue to yellow to red in that order.
+The **Parkour** course has four different sections and a checkpoint for each one.
+
+The sections are themed by color, from green to blue to yellow to red in that order, and they are relatively equal in length.
 
 While players are in the **Parkour**, they receive several control items* in their hotbar that they can use by dropping or offhanding:
 - **Return to Checkpoint**: A compass; sends the player to their most recent checkpoint.
