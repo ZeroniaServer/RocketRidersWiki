@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Achievements
-hyperlink: /achievements/
+permalink: /achievements/
 nav_order: 6
 ---
 # **Achievements**
