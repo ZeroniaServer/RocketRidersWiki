@@ -30,8 +30,9 @@ A **Canopy** may also be "fire-poofed," which sets all of the leaves on fire and
 - A flame **[arrow](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)** lands directly near the logs
 - Fire spreads to the logs by other means (note that **Fireballs** and flame **arrows** set any leaves they contact on fire).
 - A player on fire stands near the logs for a maximum of 4 seconds (known as "Canopy smoking").
+- TNT explodes in a 7 block radius of the **Canopy**.
 
-The **Canopy** duration can also be extended by 5 seconds if water from a **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** falls on top of it. This is known as "Canopy watering."
+The **Canopy** duration can also be extended by 10 seconds if water from a **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** falls on top of it. This is known as "Canopy watering."
 
 ---
 ### Use Cases
