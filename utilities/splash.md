@@ -24,7 +24,7 @@ Here's **Rocket Riders** co-creator Evtema3's **TOP TEN REASONS WHY SPLASHES ARE
 5. You can restart a **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** by throwing a **Splash** to update a piston/observer in the engine.
 6. You can also disable a **missile** by throwing a **Splash** to update a piston/observer in the engine.
 7. You can put yourself out when you're on fire by throwing a **Splash** against yourself.
-8. You can throw a **Splash** on a **[Canopy](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** to "water" it, thereby extending its duration by 5 seconds. (You can also put out a fire-poofed **Canopy** by throwing a **Splash** onto the leaves; however, the leaves will decay rapidly anyway, so this isn't really as useful.)
+8. You can throw a **Splash** on a **[Canopy](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** to "water" it, thereby extending its duration by 10 seconds. (You can also put out a fire-poofed **Canopy** by throwing a **Splash** onto the leaves; however, the leaves will decay rapidly anyway, so this isn't really as useful.)
 10. You can put out the fire in flame **[arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrow)** by throwing a **Splash** and having the arrows fly into the water.
 11. You can completely destabilize a **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)** by throwing a **Splash** inside it. The placed water triggers the **Vortex** to explode while at the same time negating explosion damage.
 
