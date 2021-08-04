@@ -9,11 +9,11 @@ nav_order: 1
 
 You can download **Rocket Riders** from Planet Minecraft **[here](https://www.planetminecraft.com/project/rocket-riders/)**!
 
-The map currently supports Minecraft version 1.17.1. It should also be compatible with Spigot/Paper servers, although Vanilla is preferred.
+The map currently only supports Minecraft Java Edition version 1.17.1. It should also be compatible with Spigot/Paper servers, although Vanilla is preferred.
 
 When you download it, you should have a zip file named `rocket-riders.zip`(or alternatively, if using the Google Drive download link, `Rocket Riders.zip`.
 
-If you wish to play with your friends, you can upload this zip file directly to server hosting platforms such as **[Minehut](https://minehut.com/)**, **[Aternos](https://aternos.org/)**, and **[StickyPiston](https://stickypiston.co/)**. Please refer to the instructions there for map installation.
+If you wish to play with your friends, you can upload this zip file directly to server hosting platforms such as **[Minehut](https://minehut.com/)**, **[Aternos](https://aternos.org/)**, and **[StickyPiston](https://stickypiston.co/)**, or to your own **[Realm](https://help.minecraft.net/hc/en-us/articles/360029978911-Java-Edition-How-do-I-load-content-to-my-Realm-)**. Please refer to the instructions there for map installation.
 
 If you wish to play in singleplayer or open your world to LAN (local area network), you will want to copy this file to your world saves directory. This is located in the following places per operating system:
 - Windows: `%APPDATA%\.minecraft\saves`
