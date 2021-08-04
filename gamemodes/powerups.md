@@ -79,9 +79,13 @@ A **Trident** may also be used to destroy a **[Vortex](https://zeroniaserver.git
 ---
 ### **Elytra**
 
-Players may obtain low-durability **Elytra** which replaces their chestplate slot (normally occupied by a leather tunic). This makes the player more susceptible to damage but also allows increased travel ability... until, of course, the **Elytra** breaks because it only has 3 durability.
+Players may obtain low-durability **Elytra** which replace their chestplate slot (normally occupied by a leather tunic) while still offering the same armor protection.
 
-The **Elytra** does <ins>NOT</ins> come with fireworks, so it must be used sparingly and strategically.
+**Elytra** allow for increased travel ability, but to a finite extent. Since they only have 5 durability, the **Elytra** break after relatively short flights.
+
+Moreover, they automatically break when the player is near the enemy base in order to prevent overpowered shortcuts to winning the game. 
+
+**Elytra** do <ins>NOT</ins> come with fireworks, so they must be used sparingly and strategically.
 
 ---
 ### **Totem of Undying**
