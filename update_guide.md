@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update Guide
-hyperlink: /update_guide/
+permalink: /update_guide/
 nav_order: 1
 ---
 # **Update Guide**

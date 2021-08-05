@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installation Guide
-hyperlink: /installation_guide/
+permalink: /installation_guide/
 nav_order: 1
 ---
 # **Installation Guide**
