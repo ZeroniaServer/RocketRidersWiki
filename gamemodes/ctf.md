@@ -5,8 +5,8 @@ parent: Gamemodes
 nav_order: 4
 ---
 **Capture the Flag Mode**
-
 ---
+
 **Capture the Flag Mode** is a gamemode that is based on the outdoor sport of the same name. It's Capture the Flag with explosions.
 
 ---
