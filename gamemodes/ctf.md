@@ -10,6 +10,7 @@ nav_order: 4
 ## 🚧 This page is a **work in progress**. 🚧
 
 Check back later to see information about Capture the Flag Mode!
+
 ---
 **Capture the Flag Mode** is a gamemode that is based on the outdoor sport of the same name.
 
