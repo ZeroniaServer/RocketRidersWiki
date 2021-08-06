@@ -9,6 +9,10 @@ nav_order: 7
 # **Miscellaneous**
 ---
 
+<div id="art_image">
+    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/misc.png" width="250"  />
+</div>
+
 Minor elements of the game that deserve a little attention. Click on the links below to learn more about each of these things:
 
 - **[Tutorial Achievements](https://zeroniaserver.github.io/RocketRidersWiki/misc/tutorial_achievements)**
