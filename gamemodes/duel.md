@@ -37,10 +37,9 @@ The items which can be obtained in **1v1 Duel Mode** are the same as in **Normal
   * **[Warhead](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/warhead)**
   * **[Auxiliary](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy/auxiliary)**
 * 1 **[Lightning](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/)** Missile (**[Thunderbolt](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/thunderbolt)** or **[Hurricane](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning/hurricane)**)
-* **[Fireball](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** or **[Nova Rocket](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)**
+* **[Fireball](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)**
 * **[Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)** or **[Obsidian Shield](https://zeroniaserver.github.io/RocketRidersWiki/utilities/obsidian_shield)**
 * **[Arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)**
 * **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)**
 * **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**
-* **[Canopy](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)**
 
