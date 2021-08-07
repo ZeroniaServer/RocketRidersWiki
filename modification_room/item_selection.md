@@ -7,12 +7,18 @@ nav_order: 3
 **Item Selection**
 ---
 
+<div id="art_image">
+    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/item_selection.png" width="250"  />
+</div>
+
 The **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room)** contains an **Item Selection** interface, with signs to enable or disable each individual **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** and **[utility](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** item in the game (with certain exceptions described below) as well as entire categories of these items.
+
+This can be used to configure the possible obtainable items as desired, directly affecting **[Item RNG](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/item_rng)** systems.
 
 ---
 ### Item Categories
 
-The following categories may be configured:
+The following categories of items may be configured in the **Item Selection** interface:
 - **[Normal Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/normal_missiles)**
 - **[Heavy Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/heavy_missiles)**
 - **[Lightning Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/lightning_missiles)**

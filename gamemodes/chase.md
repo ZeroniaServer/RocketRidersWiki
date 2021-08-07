@@ -7,6 +7,10 @@ nav_order: 5
 **Chase Mode**
 ---
 
+<div id="art_image">
+    <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/chase_mode.png" width="250"  />
+</div>
+
 **Chase Mode** is a free-for-all racing-style gamemode that is only available in public world downloads. In essence, it is a racing game with a highly explosive twist!
 
 ---
