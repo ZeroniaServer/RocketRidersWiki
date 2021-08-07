@@ -7,10 +7,6 @@ nav_order: 6
 **1v1 Duel Mode**
 ---
 
-## 🚧 This page is a **work in progress**. 🚧
-
-Check back later to see information about 1v1 Duel Mode!
-
 **1v1 Duel Mode** is a gamemode which pits two players against each other in a ranked best-of-three. 1v1 server maps force the game to be played in this mode.
 
 ---
