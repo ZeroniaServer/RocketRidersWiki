@@ -41,7 +41,7 @@ Players on the Dark side will recieve powerful missiles and throwable utilities.
 - **[ICBMs](#icbm)**
 - **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**
 
-**Swap Mode** adds **Cluster Fireballs** and **ICBMs** as gamemode-exclusive utilities, which replace the functionality of normal **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** and the **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**. These are described in more detail below:
+**Swap Mode** adds **[Cluster Fireballs](#cluster-fireball)** and **[ICBMs](#icbm)** as gamemode-exclusive utilities, which replace the functionality of normal **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** and the **[Vortex](https://zeroniaserver.github.io/RocketRidersWiki/utilities/vortex)**. These are described in more detail below.
 
 ---
 ### **Cluster Fireball**
