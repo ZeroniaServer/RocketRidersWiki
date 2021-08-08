@@ -31,15 +31,17 @@ Spectators may also see how many matches each team has won in the scoreboard sid
 ### XP and Ranks
 **XP** (short for **experience**) is a ranking system exclusive to **1v1 Duel Mode**.
 
-Players receive or lose XP depending on the outcome of a game of **1v1 Duel Mode**, and XP translates to **ranks** and **boots** worn by the player at any time. Leaving a game of **1v1 Duel Mode** early starts a 1 minute timeout, and if the player does not rejoin during this timeout period, the game ends due to forfeit (the player who forfeits incurs an XP penalty when they rejoin, while the player remaining receives XP compensation).
+Players receive or lose XP depending on the outcome of a game of **1v1 Duel Mode**, and XP translates to **ranks** and **boots** worn by the player at any time.
 
-XP translates to the following **ranks** (note that XP is clamped to values of 0-1300):
-- 0-99 XP: Unranked
-- 100-399 XP: Bronze
-- 400-699 XP: Silver
-- 700-999 XP: Gold
-- 1000-1299 XP: Diamond
-- 1300 XP: Champion
+Leaving a game of **1v1 Duel Mode** early starts a 1 minute timeout, and if the player does not rejoin during this timeout period, the game ends due to forfeit (the player who forfeits incurs an XP penalty when they rejoin, while the player remaining receives XP compensation).
+
+XP translates to the following **ranks** and **boots** (note that XP is clamped to values of 0-1300):
+- 0-99 XP: Unranked (dark-gray-colored leather boots)
+- 100-399 XP: Bronze (bronze-colored leather boots)
+- 400-699 XP: Silver (iron boots)
+- 700-999 XP: Gold (gold boots)
+- 1000-1299 XP: Diamond (diamond boots)
+- 1300 XP: Champion (netherite boots)
 
 Players can tell their rank by looking at their action bar in the Lobby, the experience bar on their HUD, or the ranked boots in their inventory (note that all kinds of ranked boots have the same level of armor protection).
 
