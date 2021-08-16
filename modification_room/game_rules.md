@@ -60,7 +60,7 @@ When enabled, players can have more than one of any item in their inventory at a
 When disabled, they may only have multiple **[arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)** in a stack. Similar exceptions may also be made depending on the active **[gamemode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** and selected **[modifiers](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers)**. For instance:
 
 - In **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)**, players can have up to 2 **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** at a time.
-- The **[Surprise Egg modifier](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#surprise-egg)** lets players receive "Surprise Eggs" that can stack up to 3.
+- The **[Surprise Eggs modifier](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#surprise-eggs)** lets players receive "Surprise Eggs" that can stack up to 3.
 
 This setting is disabled by default and resembles the behavior from *Missile Wars*.
 
