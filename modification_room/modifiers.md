@@ -47,7 +47,7 @@ Players can receive a special spawn egg that spawns a random **[missile](https:/
 ### Wind Down
 After every item given, the time between receiving items decreases, intensifying the game as it continues. (Incompatible with **[Minute Mix](#minute-mix)**; always enabled in **[1v1 Duel Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/duel)**)
 
-For those curious, **Wind Down** decreases the time between receiving items by 2 ticks for each item received until it reaches a minimum of 1 second of delay. This may be further reduced in the event of multiple **[Sudden Death](https://zeroniaserver.github.io/RocketRidersWiki/misc/sudden_death)** periods.
+For those curious, **Wind Down** decreases the time between receiving items by 2 ticks for each item received until it reaches a minimum of 3 seconds of delay. This may be further reduced in the event of multiple **[Sudden Death](https://zeroniaserver.github.io/RocketRidersWiki/misc/sudden_death)** periods.
 
 ---
 ### Splash Streams
