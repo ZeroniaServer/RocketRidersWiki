@@ -71,7 +71,7 @@ Both portals must be broken to win the game. (Incompatible with **[Capture the F
 
 ---
 ### Clutter Collector
-Explosions do no block damage between the bases. (Incompatible with **[Molerat](#molerat)** and **[Rocket Residers](#rocket-residers)**)
+Explosions do no block damage between the bases. (Incompatible with **[Molerat](#molerat)**, **[Rocket Residers](#rocket-residers)**, and **[Crusade Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/crusade)**)
 
 ---
 ### Chaos
