@@ -38,7 +38,7 @@ If a Flag Carrier dies or leaves mid-game, the flag is restored to its Flagpole 
 ## Items
 The main weapon in this gamemode is the **Piercing Pickaxe** (netherite pickaxe with Sharpness I), which replaces the **Shooting Saber**. Players also have leather armor colored respectively after their team.
 
-The only obtainable items in **Capture the Flag Mode** are **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (with the exception of **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)**) and **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** (with the exception of **[arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)**).
+The only obtainable items in **Capture the Flag Mode** are **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (with the exception of **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)**, unless **[Chaos](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#chaos)** is enabled) and **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)** (with the exception of **[arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)**).
 
 In this gamemode, players can receive up to two **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** at once.
 

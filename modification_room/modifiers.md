@@ -41,7 +41,7 @@ Players receive a new set of 8 items every minute. (Incompatible with **[Wind Do
 
 ---
 ### Surprise Eggs
-Players can receive a special spawn egg that spawns a random **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (excluding **[Special Missiles]()**). These can stack up to 3. (Incompatible with **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**)
+Players can receive a special spawn egg that spawns a random **[missile](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (excluding **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special)** unless **[Chaos](#chaos)** is enabled). These can stack up to 3. (Incompatible with **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**)
 
 ---
 ### Wind Down
@@ -63,11 +63,24 @@ Players have increased speed and jump height.
 
 ---
 ### Hardcore
-Players have one heart of health and bases are three blocks thick. (Incompatible with **[Capture the Flag](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)** Mode)
+Players have three hearts of health and bases are three blocks thick. (Incompatible with **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)**)
 
 ---
 ### Double Portal
-Both portals must be broken to win the game. (Incompatible with **[Capture the Flag](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)** and **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**)
+Both portals must be broken to win the game. (Incompatible with **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)** and **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**)
+
+---
+### Clutter Collector
+Explosions do no block damage between the bases. (Incompatible with **[Molerat](#molerat)** and **[Rocket Residers](#rocket-residers)**)
+
+---
+### Chaos
+**[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special)** spawn in regular gameplay. (Incompatible with **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**, **[Swap Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/swap)**, and **[Crusade Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/crusade)**)
+
+---
+### Collision Control
+**[Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** cannot be spawned inside the enemy base. (Incompatible with **[Rocket Residers](#rocket-residers)**, **[Capture the Flag Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/ctf)**, and **[Chase Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/chase)**)
+
 
 ---
 _*Note that, unless otherwise specified, all above modifiers are incompatible with **[1v1 Duel Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/duel)**._

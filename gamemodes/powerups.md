@@ -61,7 +61,7 @@ The **Stinging Shield** is made of beehives with three bees each inside and has 
 ---
 ### **Lava Splash**
 
-Players may obtain **Lava Splash** bottles that work very similarly to normal **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** bottles, except they place lava instead. The lava may be used to melt any players it comes into contact with.
+Players may obtain **Lava Splash** bottles that work very similarly to normal **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** bottles, except they place lava instead. The lava may be used to melt any players or **[Canopies](https://zeroniaserver.github.io/RocketRidersWiki/utilities/canopy)** it comes into contact with.
 
 Lava may be used in combination with water from normal **Splashes** to form cobblestone, stone, or even obsidian (this is vanilla behavior). This is all eventually removed when the **[arena clears](https://zeroniaserver.github.io/RocketRidersWiki/behind_the_scenes/arena_clearing)**.
 

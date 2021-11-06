@@ -30,6 +30,8 @@ Since the **Vortex** explodes when occluded by a block, it may also be thrown in
 
 A **Vortex** may <ins>**not**</ins> be thrown near your own portal to lose the game (in **[gamemodes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes)** with portals, anyway). However, it *can* be thrown near the other team's portal and exploded thereafter by any means to win the game. This is unlike other utility items such as **[Nova Rockets](https://zeroniaserver.github.io/RocketRidersWiki/utilities/nova_rocket)** and **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)**, which require the **[Snipe Portals game rule](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/game_rules#snipe-portals)** (disabled by default) to be used against enemy portals.
 
+As a projectile, the **Vortex** egg may be used to launch **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** similar to **[arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrow)** and **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
+
 ---
 ### Gamemode Specific Behavior
 

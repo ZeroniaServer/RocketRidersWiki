@@ -30,6 +30,7 @@ A **Canopy** may also be "fire-poofed," which sets all of the leaves on fire and
 - A flame **[arrow](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)** lands directly near the logs
 - Fire spreads to the logs by other means (note that **Fireballs** and flame **arrows** set any leaves they contact on fire).
 - A player on fire stands near the logs for a maximum of 4 seconds (known as "Canopy smoking").
+- Lava flows on top of the Canopy (for instance, from **[Lava Splashes](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups#lava-splash)** in **[Powerups Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/powerups)**).
 - TNT explodes in a 7 block radius of the logs.
 
 The **Canopy** duration can also be extended by 10 seconds if water from a **[Splash](https://zeroniaserver.github.io/RocketRidersWiki/utilities/splash)** falls on top of it. This is known as "Canopy watering."
@@ -50,6 +51,8 @@ Throwing the **Canopy** off-sides (adjacent to the bases) puts players in a posi
 Any benefits that the **Canopy** affords in this manner do come with significant drawbacks, however, due to the sheer number of counters that other **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities/)** can have against them (the **Nova Rocket** chiefly among them).
 
 **Canopies** <ins>**cannot**</ins> be used to break portals. They also cannot be spawned in a 7-block radius of either team's spawnpoint.
+
+As a projectile, the **Canopy** ender pearl may be used to launch **[Fireballs](https://zeroniaserver.github.io/RocketRidersWiki/utilities/fireball)** similar to **[arrows](https://zeroniaserver.github.io/RocketRidersWiki/utilities/arrows)** and **[Shields](https://zeroniaserver.github.io/RocketRidersWiki/utilities/shield)**.
 
 ---
 ### Gamemode Specific Behaviors

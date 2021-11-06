@@ -11,7 +11,7 @@ nav_order: 5
     <img src="https://zeroniaserver.github.io/RocketRidersWiki/images/chase_mode.png" width="250"  />
 </div>
 
-**Chase Mode** is a free-for-all racing-style gamemode that is only available in public world downloads. In essence, it is a racing game with a highly explosive twist!
+**Chase Mode** is a free-for-all racing-style gamemode that is only available in public world downloads or `/rr0` on **[CubeKrowd](https://cubekrowd.net/)**. In essence, it is a racing game with a highly explosive twist!
 
 ---
 ## Teams
@@ -28,6 +28,6 @@ Players start on the Blue base and must spawn and ride **[missiles](https://zero
 ---
 ## Items
 
-The only obtainable items in **Chase Mode** are **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (with the exception of **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)**) and **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)**.
+The only obtainable items in **Chase Mode** are **[missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles)** (with the exception of **[Special Missiles](https://zeroniaserver.github.io/RocketRidersWiki/missiles/special_missiles)**, unless **[Chaos](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/modifiers#chaos)** is enabled) and **[utilities](https://zeroniaserver.github.io/RocketRidersWiki/utilities)**.
 
 Players may freely configure which items are active in this gamemode through the **[Item Selection](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/item_selection)** options in the **[Modification Room](https://zeroniaserver.github.io/RocketRidersWiki/modification_room/)**.
