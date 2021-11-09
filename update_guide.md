@@ -7,7 +7,7 @@ nav_order: 1
 # **Update Guide**
 ---
 
-If you have an existing Rocket Riders world that you would like to update to the latest version while still keeping your player/world data, read below (or alternatively, **[watch this video!](https://www.youtube.com/watch?v=YMySv73cPu8)**).
+If you have an existing Rocket Riders world that you would like to update to the latest version while still keeping your player/world data, read below (or alternatively, **[watch this video!](https://www.youtube.com/watch?v=jqhpZxDhhEs)**).
 
 This process involves copying over the new datapack folders from the **[Rocket Riders GitHub repository](https://github.com/ZeroniaServer/RocketRiders)**.
 
