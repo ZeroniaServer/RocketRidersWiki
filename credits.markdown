@@ -23,7 +23,7 @@ YZEROgame, Evtema3, Chronos22, [Kurusa](https://twitter.com/kurokaiyo), Rubix_On
 CubeKrowd Build Team (Bardonius, hugoatlas, TrekStone, HolyToiletPaper)
 
 **Command Support**\
-vdvman1, Onnowhere, Tryashtar, PingiPuck, DarkKronicle, likeabauws, iRobo, Maxaxik, TheDestruc7i0n, misode, dragonmaster95, Red\_Bones, Cloud Wolf, Miolith, kcor\_noved, WubbiConcepts, and the Minecraft Commands Community
+vdvman1, Onnowhere, Tryashtar, NopeName, PingiPuck, DarkKronicle, likeabauws, iRobo, Maxaxik, TheDestruc7i0n, misode, dragonmaster95, Red\_Bones, Cloud Wolf, Miolith, kcor\_noved, WubbiConcepts, and the Minecraft Commands Community
 
 **Server Support**\
 CubeKrowd, MauveCraft, Unofficial Ranked Missile Wars, Toul\_, LogicBugs, iRobo, Minehut, Server<span>.</span>pro, Aternos
