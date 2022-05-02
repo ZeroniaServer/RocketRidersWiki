@@ -9,7 +9,7 @@ nav_order: 1
 
 You can download **Rocket Riders** from Planet Minecraft **[here](https://www.planetminecraft.com/project/rocket-riders/)**!
 
-The map currently only supports Minecraft Java Edition version 1.18. It should also be compatible with Spigot/Paper servers, although Vanilla is preferred.
+The map currently only supports Minecraft Java Edition version 1.18.2+. It should also be compatible with Spigot/Paper servers, although Vanilla is preferred.
 
 When you download it, you should have a zip file named `rocket-riders.zip`(or alternatively, if using the Google Drive download link, `Rocket Riders.zip`.
 
