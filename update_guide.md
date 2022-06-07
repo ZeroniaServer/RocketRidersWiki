@@ -26,4 +26,4 @@ Finally, run `/reload` ingame to load in the new datapacks! (Alternatively, clos
 
 Note: for updating to **Version 1.1.0+**, you will need to run the command `/function rr_crusade:install` in chat in order to play **[Crusade Mode](https://zeroniaserver.github.io/RocketRidersWiki/gamemodes/crusade)**. You may also need to run `/datapack enable "file/rr_crusade"` if the first command fails.
 
-Note: for updating from to **Version 1.1.4+** (which is on Minecraft 1.18 or higher), Minecraft should handle region file conversion automatically.
+Note: for updating from to **Version 1.1.4+** (which is on Minecraft 1.18 or higher) or **Version 1.2.4+** (which is on Minecraft 1.19 or higher), Minecraft should handle region file conversion automatically.
