@@ -19,7 +19,7 @@ youtubeId: fmvTicOL7rs
             <b>TNT Count:</b> 14<br><br>
             <b>Speed:</b> 2.2 m/s<br><br>
             <b>Dimensions:</b> 12x3x3<br><br>
-            <b>Difficulty of Riding:</b> Very Easy<br><br>
+            <b>Difficulty of Riding:</b> Medium<br><br>
             <b>Category:</b> Normal<br><br>
             <b>Created by:</b> IndigoLaser
         </td>

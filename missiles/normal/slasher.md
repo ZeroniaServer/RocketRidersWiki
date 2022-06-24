@@ -19,7 +19,7 @@ youtubeId: z3aNvDctb8U
             <b>TNT Count:</b> 6<br><br>
             <b>Speed:</b> 2.0 m/s<br><br>
             <b>Dimensions:</b> 13x3x4<br><br>
-            <b>Difficulty of Riding:</b> Hard<br><br>
+            <b>Difficulty of Riding:</b> Very Easy<br><br>
             <b>Category:</b> Normal<br><br>
             <b>Created by:</b> 69thAmendment
         </td>

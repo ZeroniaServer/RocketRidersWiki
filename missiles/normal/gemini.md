@@ -19,7 +19,7 @@ youtubeId: -w2U65KZjXE
             <b>TNT Count:</b> 4<br><br>
             <b>Speed:</b> 2.0 m/s<br><br>
             <b>Dimensions:</b> 9x3x2<br><br>
-            <b>Difficulty of Riding:</b> Medium<br><br>
+            <b>Difficulty of Riding:</b> Easy<br><br>
             <b>Category:</b> Normal<br><br>
             <b>Created by:</b> samnrad and<br>Evtema3
         </td>

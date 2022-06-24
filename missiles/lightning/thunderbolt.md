@@ -19,7 +19,7 @@ youtubeId: COg551Fpvco
             <b>TNT Count:</b> 15<br><br>
             <b>Speed:</b> 3.3 m/s<br><br>
             <b>Dimensions:</b> 11x2x2<br><br>
-            <b>Difficulty of Riding:</b> Hard<br><br>
+            <b>Difficulty of Riding:</b> Medium<br><br>
             <b>Category:</b> Lightning<br><br>
             <b>Created by:</b> Rubix_One
         </td>
